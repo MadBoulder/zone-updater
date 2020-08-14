@@ -57,4 +57,7 @@ def update_zones():
 
 
 if __name__ == "__main__":
-    print(update_zones())
+    new_zones = update_zones()
+    print("{} new zones".format(len(new_zones)))
+    if new_zones:
+        print(new_zones)
