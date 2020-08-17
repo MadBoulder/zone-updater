@@ -20,9 +20,8 @@ def get_playlists(channel_id="UCX9ok0rHnvnENLSK7jdnXxA", num_playlists=MAX_ITEMS
     
     total = data['pageInfo']['totalResults']
     zones = data['items']
-    retrieved = len(zones)
 
-    while retrieved < total:
+    while len(zones) < total:
         next_page_token = data['nextPageToken']
         query_url = API_QUERY.format(
             num_playlists, channel_id, api_key, next_page_token
@@ -30,7 +29,6 @@ def get_playlists(channel_id="UCX9ok0rHnvnENLSK7jdnXxA", num_playlists=MAX_ITEMS
         inp = urllib.request.urlopen(query_url)
         data = json.load(inp)
         new_zones = data['items']
-        retrieved += len(new_zones)
         zones += new_zones
         
     return [i['snippet']['title'] for i in zones]
