@@ -15,8 +15,7 @@ def get_playlists(channel_id="UCX9ok0rHnvnENLSK7jdnXxA", num_playlists=MAX_ITEMS
         api_key = f.read()
     query_url = API_QUERY.format(
         num_playlists, channel_id, api_key, '')
-    inp = urllib.request.urlopen(query_url)
-    data = json.load(inp)
+    data = json.load(urllib.request.urlopen(query_url))
     
     total = data['pageInfo']['totalResults']
     zones = data['items']
@@ -26,8 +25,7 @@ def get_playlists(channel_id="UCX9ok0rHnvnENLSK7jdnXxA", num_playlists=MAX_ITEMS
         query_url = API_QUERY.format(
             num_playlists, channel_id, api_key, next_page_token
         )
-        inp = urllib.request.urlopen(query_url)
-        data = json.load(inp)
+        data = json.load(urllib.request.urlopen(query_url))
         new_zones = data['items']
         zones += new_zones
         
