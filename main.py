@@ -4,6 +4,7 @@ from datetime import date
 
 MAX_ITEMS_API_QUERY = 50
 Y_CRED = "AIzaSyAbPC02W3k-MFU7TmvYCSXfUPfH10jNB7g"
+API_QUERY = 'https://www.googleapis.com/youtube/v3/playlists?part=snippet&maxResults={}&channelId={}&key={}&pageToken={}'
 
 def get_playlists(channel_id="UCX9ok0rHnvnENLSK7jdnXxA", num_playlists=MAX_ITEMS_API_QUERY):
     """
@@ -12,8 +13,8 @@ def get_playlists(channel_id="UCX9ok0rHnvnENLSK7jdnXxA", num_playlists=MAX_ITEMS
     api_key = None
     with open('credentials.txt', 'r', encoding='utf-8') as f:
         api_key = f.read()
-    query_url = 'https://www.googleapis.com/youtube/v3/playlists?part=snippet&maxResults={}&channelId={}&key={}'.format(
-        num_playlists, channel_id, api_key)
+    query_url = API_QUERY.format(
+        num_playlists, channel_id, api_key, '')
     inp = urllib.request.urlopen(query_url)
     data = json.load(inp)
     
@@ -23,7 +24,7 @@ def get_playlists(channel_id="UCX9ok0rHnvnENLSK7jdnXxA", num_playlists=MAX_ITEMS
 
     while retrieved < total:
         next_page_token = data['nextPageToken']
-        query_url = 'https://www.googleapis.com/youtube/v3/playlists?part=snippet&maxResults={}&channelId={}&key={}&pageToken={}'.format(
+        query_url = API_QUERY.format(
             num_playlists, channel_id, api_key, next_page_token
         )
         inp = urllib.request.urlopen(query_url)
