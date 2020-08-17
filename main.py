@@ -1,4 +1,5 @@
 import json
+import os
 import urllib.request
 from datetime import date
 
@@ -41,6 +42,8 @@ def update_zones():
     last_zone_update = current_data['zones']
     current_zones = get_playlists()
     new_zones = [zone for zone in current_zones if zone not in last_zone_update]
+    # check which ones are not included yet
+    not_included = list_not_added(current_zones, get_all_included_zones_and_sectors())
     # prepare new data
     updated_data = {
         'date': current_date,
@@ -48,10 +51,36 @@ def update_zones():
         'zones_total': len(current_zones),
         'new_zones': new_zones,
         'zones': current_zones
+        # 'not_included': not_included
     }
     with open('zones.json', 'w', encoding='utf-8') as f:
         json.dump(updated_data, f, indent=4, ensure_ascii=False)
     return new_zones
+
+def get_all_included_zones_and_sectors(rel_path='../BetaLibrary/'):
+    """
+    Get the list of sectors and zones included in the web
+    """
+    # walk all data
+    areas = next(os.walk(rel_path + 'data/zones/'))[1]
+    all_data = [rel_path + 'data/zones/' + area + '/' + area + '.txt' for area in areas]
+    listed = []
+    for area in areas:
+        # Load data zone map
+        datafile = rel_path + 'data/zones/' + area + '/' + area + '.txt'
+        area_data = {}
+        with open(datafile, encoding='utf-8') as data:
+            area_data = json.load(data)
+        listed += [area_data['name']]
+        listed += [area_data['name'] + ': ' + sector['name'] for sector in area_data['sectors']]
+    return listed
+
+def list_not_added(current_zones, included_zones):
+    """
+    List de sectors and zones that have a playlist but haven't been 
+    added to the web yet.
+    """
+    return list(set(current_zones) - set(included_zones))
 
 
 if __name__ == "__main__":
