@@ -47,12 +47,13 @@ def update_zones():
     # prepare new data
     updated_data = {
         'date': current_date,
-        'zones': current_zones,
+        'previous_update': current_data['date'],
+        'zones_total': len(current_zones),
         'new_zones': new_zones,
-        'previous_update': current_data['date']
+        'zones': current_zones
     }
     with open('zones.json', 'w', encoding='utf-8') as f:
-        json.dump(updated_data, f, indent=4, ensure_ascii=False, sort_keys=True)
+        json.dump(updated_data, f, indent=4, ensure_ascii=False)
     return new_zones
 
 
