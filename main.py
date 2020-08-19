@@ -43,7 +43,7 @@ def update_zones():
     current_zones = get_playlists()
     new_zones = [zone for zone in current_zones if zone not in last_zone_update]
     # check which ones are not included yet
-    not_included = list_not_added(current_zones, get_all_included_zones_and_sectors())
+    # not_included = list_not_added(current_zones, get_all_included_zones_and_sectors())
     # prepare new data
     updated_data = {
         'date': current_date,
@@ -63,7 +63,7 @@ def get_all_included_zones_and_sectors(rel_path='../BetaLibrary/'):
     """
     # walk all data
     areas = next(os.walk(rel_path + 'data/zones/'))[1]
-    all_data = [rel_path + 'data/zones/' + area + '/' + area + '.txt' for area in areas]
+    # all_data = [rel_path + 'data/zones/' + area + '/' + area + '.txt' for area in areas]
     listed = []
     for area in areas:
         # Load data zone map
