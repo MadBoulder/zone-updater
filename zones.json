@@ -1,9 +1,14 @@
 {
-    "date": "19-08-2020",
-    "previous_update": "18-08-2020",
-    "zones_total": 252,
-    "new_zones": [],
+    "date": "20-08-2020",
+    "previous_update": "19-08-2020",
+    "zones_total": 254,
+    "new_zones": [
+        "Joe's Valley",
+        "Pegalajar"
+    ],
     "zones": [
+        "Joe's Valley",
+        "Pegalajar",
         "Magic Wood: Sector Haupt 3",
         "Buttermilk Country",
         "Gold Bar",
