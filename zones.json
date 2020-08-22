@@ -1,11 +1,8 @@
 {
-    "date": "20-08-2020",
-    "previous_update": "19-08-2020",
+    "date": "22-08-2020",
+    "previous_update": "20-08-2020",
     "zones_total": 254,
-    "new_zones": [
-        "Joe's Valley",
-        "Pegalajar"
-    ],
+    "new_zones": [],
     "zones": [
         "Joe's Valley",
         "Pegalajar",
