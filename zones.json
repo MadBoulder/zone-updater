@@ -1,9 +1,16 @@
 {
-    "date": "27-08-2020",
-    "previous_update": "26-08-2020",
-    "zones_total": 254,
-    "new_zones": [],
+    "date": "31-08-2020",
+    "previous_update": "27-08-2020",
+    "zones_total": 257,
+    "new_zones": [
+        "Alcañiz: Sector El Arenal",
+        "Varazze",
+        "Brione: Sector Vecchio Leone"
+    ],
     "zones": [
+        "Alcañiz: Sector El Arenal",
+        "Varazze",
+        "Brione: Sector Vecchio Leone",
         "Joe's Valley",
         "Pegalajar",
         "Magic Wood: Sector Haupt 3",
