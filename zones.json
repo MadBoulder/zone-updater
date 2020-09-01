@@ -1,12 +1,8 @@
 {
-    "date": "31-08-2020",
-    "previous_update": "27-08-2020",
+    "date": "01-09-2020",
+    "previous_update": "31-08-2020",
     "zones_total": 257,
-    "new_zones": [
-        "Alcañiz: Sector El Arenal",
-        "Varazze",
-        "Brione: Sector Vecchio Leone"
-    ],
+    "new_zones": [],
     "zones": [
         "Alcañiz: Sector El Arenal",
         "Varazze",
