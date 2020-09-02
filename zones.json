@@ -1,9 +1,12 @@
 {
-    "date": "01-09-2020",
-    "previous_update": "31-08-2020",
-    "zones_total": 257,
-    "new_zones": [],
+    "date": "02-09-2020",
+    "previous_update": "01-09-2020",
+    "zones_total": 258,
+    "new_zones": [
+        "Rioupéroux"
+    ],
     "zones": [
+        "Rioupéroux",
         "Alcañiz: Sector El Arenal",
         "Varazze",
         "Brione: Sector Vecchio Leone",
