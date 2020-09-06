@@ -1,9 +1,14 @@
 {
-    "date": "04-09-2020",
-    "previous_update": "03-09-2020",
-    "zones_total": 258,
-    "new_zones": [],
+    "date": "06-09-2020",
+    "previous_update": "04-09-2020",
+    "zones_total": 260,
+    "new_zones": [
+        "Alcañiz: Sector Peche melba",
+        "Silvretta"
+    ],
     "zones": [
+        "Alcañiz: Sector Peche melba",
+        "Silvretta",
         "Rioupéroux",
         "Alcañiz: Sector El Arenal",
         "Varazze",
