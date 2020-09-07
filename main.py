@@ -9,7 +9,7 @@ API_QUERY = 'https://www.googleapis.com/youtube/v3/playlists?part=snippet&maxRes
 
 def get_playlists(channel_id="UCX9ok0rHnvnENLSK7jdnXxA", num_playlists=MAX_ITEMS_API_QUERY):
     """
-    Get the playlists of a YouTube channel from the channel's id
+    Get all the playlists of a YouTube channel from the channel's id
     """
     api_key = None
     with open('credentials.txt', 'r', encoding='utf-8') as f:
@@ -33,6 +33,10 @@ def get_playlists(channel_id="UCX9ok0rHnvnENLSK7jdnXxA", num_playlists=MAX_ITEMS
     return [i['snippet']['title'] for i in zones]
     
 def update_zones():
+    """
+    Retrieve the current list of playlists, compare it with the previous
+    one and detect which ones have been added since the last update 
+    """
     today = date.today()
     # dd-mm-yyyy
     current_date = today.strftime("%d-%m-%Y")
