@@ -63,7 +63,6 @@ def get_all_included_zones_and_sectors(rel_path='../BetaLibrary/'):
     """
     # walk all data
     areas = next(os.walk(rel_path + 'data/zones/'))[1]
-    # all_data = [rel_path + 'data/zones/' + area + '/' + area + '.txt' for area in areas]
     listed = []
     for area in areas:
         # Load data zone map
