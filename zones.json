@@ -1,21 +1,12 @@
 {
-    "date": "29-09-2020",
-    "previous_update": "08-09-2020",
-    "zones_total": 271,
+    "date": "30-09-2020",
+    "previous_update": "29-09-2020",
+    "zones_total": 272,
     "new_zones": [
-        "Los Barruecos",
-        "Claverol",
-        "Gottardo: Sector Parking",
-        "Targasonne: Sector Table",
-        "Banyoles: Sector Rocacorba",
-        "Banyoles",
-        "Cavallers: Sector La Fissura",
-        "Branson",
-        "Cavallers: Sector Hampi",
-        "GSNP",
-        "Santa Blocona: Sector de la font del ferro"
+        "El Cogul: Sector Lo Pallars"
     ],
     "zones": [
+        "El Cogul: Sector Lo Pallars",
         "Los Barruecos",
         "Claverol",
         "Gottardo: Sector Parking",
