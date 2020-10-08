@@ -1,9 +1,14 @@
 {
-    "date": "07-10-2020",
-    "previous_update": "05-10-2020",
-    "zones_total": 276,
-    "new_zones": [],
+    "date": "08-10-2020",
+    "previous_update": "07-10-2020",
+    "zones_total": 278,
+    "new_zones": [
+        "El Regalito",
+        "Mont-roig del Camp"
+    ],
     "zones": [
+        "El Regalito",
+        "Mont-roig del Camp",
         "Santa Gadea",
         "El Cogul: Sector Els Camps",
         "El Cogul: Sector El Turonet",
