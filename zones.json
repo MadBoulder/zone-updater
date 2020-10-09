@@ -1,12 +1,24 @@
 {
-    "date": "08-10-2020",
-    "previous_update": "07-10-2020",
-    "zones_total": 278,
+    "date": "09-10-2020",
+    "previous_update": "08-10-2020",
+    "zones_total": 285,
     "new_zones": [
-        "El Regalito",
-        "Mont-roig del Camp"
+        "Covaleda",
+        "Val Gerola",
+        "Resconorio",
+        "Vilafamés",
+        "Quintanilla del Rebollar",
+        "Ahedo",
+        "Rozas"
     ],
     "zones": [
+        "Covaleda",
+        "Val Gerola",
+        "Resconorio",
+        "Vilafamés",
+        "Quintanilla del Rebollar",
+        "Ahedo",
+        "Rozas",
         "El Regalito",
         "Mont-roig del Camp",
         "Santa Gadea",
