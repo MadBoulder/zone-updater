@@ -1,16 +1,8 @@
 {
-    "date": "09-10-2020",
-    "previous_update": "08-10-2020",
+    "date": "10-10-2020",
+    "previous_update": "09-10-2020",
     "zones_total": 285,
-    "new_zones": [
-        "Covaleda",
-        "Val Gerola",
-        "Resconorio",
-        "Vilafamés",
-        "Quintanilla del Rebollar",
-        "Ahedo",
-        "Rozas"
-    ],
+    "new_zones": [],
     "zones": [
         "Covaleda",
         "Val Gerola",
