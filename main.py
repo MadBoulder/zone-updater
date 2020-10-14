@@ -49,9 +49,14 @@ def update_zones():
     # check which ones are not included yet
     # not_included = list_not_added(current_zones, get_all_included_zones_and_sectors())
     # prepare new data
+    previous_update = current_data['date']
+    # if more than one update is being made on the same day, do not update previous_date
+    if current_date == current_data['date']:
+        previous_update = current_data['previous_update']
+
     updated_data = {
         'date': current_date,
-        'previous_update': current_data['date'],
+        'previous_update': previous_update,
         'zones_total': len(current_zones),
         'new_zones': new_zones,
         'zones': current_zones
