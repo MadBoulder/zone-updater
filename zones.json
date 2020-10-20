@@ -1,9 +1,16 @@
 {
-    "date": "19-10-2020",
-    "previous_update": "18-10-2020",
-    "zones_total": 285,
-    "new_zones": [],
+    "date": "20-10-2020",
+    "previous_update": "19-10-2020",
+    "zones_total": 288,
+    "new_zones": [
+        "Bezas: Sector El Atajo",
+        "Bezas: Sector Pozo Celta",
+        "Bezas: Sector Los Callejones"
+    ],
     "zones": [
+        "Bezas: Sector El Atajo",
+        "Bezas: Sector Pozo Celta",
+        "Bezas: Sector Los Callejones",
         "Covaleda",
         "Val Gerola",
         "Resconorio",
