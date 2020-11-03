@@ -1,9 +1,14 @@
 {
-    "date": "02-11-2020",
-    "previous_update": "31-10-2020",
-    "zones_total": 289,
-    "new_zones": [],
+    "date": "03-11-2020",
+    "previous_update": "02-11-2020",
+    "zones_total": 291,
+    "new_zones": [
+        "Redhill",
+        "Lake Tahoe"
+    ],
     "zones": [
+        "Redhill",
+        "Lake Tahoe",
         "Belmez",
         "Bezas: Sector El Atajo",
         "Bezas: Sector Pozo Celta",
