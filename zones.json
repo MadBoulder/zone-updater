@@ -1,11 +1,12 @@
 {
-    "date": "05-11-2020",
-    "previous_update": "04-11-2020",
-    "zones_total": 292,
+    "date": "06-11-2020",
+    "previous_update": "05-11-2020",
+    "zones_total": 293,
     "new_zones": [
-        "Rocklands: Sector The Sassies"
+        "Zarzalejo"
     ],
     "zones": [
+        "Zarzalejo",
         "Rocklands: Sector The Sassies",
         "Redhill",
         "Lake Tahoe",
