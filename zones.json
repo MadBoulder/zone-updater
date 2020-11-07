@@ -1,11 +1,12 @@
 {
-    "date": "06-11-2020",
-    "previous_update": "05-11-2020",
-    "zones_total": 293,
+    "date": "07-11-2020",
+    "previous_update": "06-11-2020",
+    "zones_total": 294,
     "new_zones": [
-        "Zarzalejo"
+        "Chaos Canyon"
     ],
     "zones": [
+        "Chaos Canyon",
         "Zarzalejo",
         "Rocklands: Sector The Sassies",
         "Redhill",
