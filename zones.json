@@ -1,9 +1,12 @@
 {
-    "date": "10-11-2020",
-    "previous_update": "09-11-2020",
-    "zones_total": 294,
-    "new_zones": [],
+    "date": "11-11-2020",
+    "previous_update": "10-11-2020",
+    "zones_total": 295,
+    "new_zones": [
+        "Santa Blocona: Sector Roca de l'avi"
+    ],
     "zones": [
+        "Santa Blocona: Sector Roca de l'avi",
         "Chaos Canyon",
         "Zarzalejo",
         "Rocklands: Sector The Sassies",
