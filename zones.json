@@ -1,9 +1,12 @@
 {
-    "date": "12-11-2020",
-    "previous_update": "11-11-2020",
-    "zones_total": 295,
-    "new_zones": [],
+    "date": "13-11-2020",
+    "previous_update": "12-11-2020",
+    "zones_total": 296,
+    "new_zones": [
+        "Bezas: Sector Resineros"
+    ],
     "zones": [
+        "Bezas: Sector Resineros",
         "Santa Blocona: Sector Roca de l'avi",
         "Chaos Canyon",
         "Zarzalejo",
