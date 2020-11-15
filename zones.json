@@ -1,9 +1,12 @@
 {
-    "date": "14-11-2020",
-    "previous_update": "13-11-2020",
-    "zones_total": 296,
-    "new_zones": [],
+    "date": "15-11-2020",
+    "previous_update": "14-11-2020",
+    "zones_total": 297,
+    "new_zones": [
+        "Can Bruguera: Sector Secretaria"
+    ],
     "zones": [
+        "Can Bruguera: Sector Secretaria",
         "Bezas: Sector Resineros",
         "Santa Blocona: Sector Roca de l'avi",
         "Chaos Canyon",
