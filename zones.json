@@ -1,11 +1,12 @@
 {
-    "date": "15-11-2020",
-    "previous_update": "14-11-2020",
-    "zones_total": 297,
+    "date": "16-11-2020",
+    "previous_update": "15-11-2020",
+    "zones_total": 298,
     "new_zones": [
-        "Can Bruguera: Sector Secretaria"
+        "Hampi"
     ],
     "zones": [
+        "Hampi",
         "Can Bruguera: Sector Secretaria",
         "Bezas: Sector Resineros",
         "Santa Blocona: Sector Roca de l'avi",
