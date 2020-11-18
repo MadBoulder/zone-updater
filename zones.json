@@ -1,9 +1,12 @@
 {
-    "date": "17-11-2020",
-    "previous_update": "16-11-2020",
-    "zones_total": 298,
-    "new_zones": [],
+    "date": "18-11-2020",
+    "previous_update": "17-11-2020",
+    "zones_total": 299,
+    "new_zones": [
+        "Bezas: Sector La Mina"
+    ],
     "zones": [
+        "Bezas: Sector La Mina",
         "Hampi",
         "Can Bruguera: Sector Secretaria",
         "Bezas: Sector Resineros",
