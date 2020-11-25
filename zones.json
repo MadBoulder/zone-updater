@@ -1,9 +1,12 @@
 {
-    "date": "24-11-2020",
-    "previous_update": "23-11-2020",
-    "zones_total": 299,
-    "new_zones": [],
+    "date": "25-11-2020",
+    "previous_update": "24-11-2020",
+    "zones_total": 300,
+    "new_zones": [
+        "Skykomish"
+    ],
     "zones": [
+        "Skykomish",
         "Bezas: Sector La Mina",
         "Hampi",
         "Can Bruguera: Sector Secretaria",
