@@ -1,9 +1,12 @@
 {
-    "date": "29-11-2020",
-    "previous_update": "28-11-2020",
-    "zones_total": 302,
-    "new_zones": [],
+    "date": "30-11-2020",
+    "previous_update": "29-11-2020",
+    "zones_total": 303,
+    "new_zones": [
+        "Leavenworth"
+    ],
     "zones": [
+        "Leavenworth",
         "Index",
         "Val Masino: Sector Sega lombarda",
         "Skykomish",
