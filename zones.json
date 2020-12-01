@@ -1,11 +1,12 @@
 {
-    "date": "30-11-2020",
-    "previous_update": "29-11-2020",
-    "zones_total": 303,
+    "date": "01-12-2020",
+    "previous_update": "30-11-2020",
+    "zones_total": 304,
     "new_zones": [
-        "Leavenworth"
+        "El estrecho del Garruchal"
     ],
     "zones": [
+        "El estrecho del Garruchal",
         "Leavenworth",
         "Index",
         "Val Masino: Sector Sega lombarda",
