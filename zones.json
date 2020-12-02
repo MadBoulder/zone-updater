@@ -1,11 +1,16 @@
 {
-    "date": "01-12-2020",
-    "previous_update": "30-11-2020",
-    "zones_total": 304,
+    "date": "02-12-2020",
+    "previous_update": "01-12-2020",
+    "zones_total": 307,
     "new_zones": [
-        "El estrecho del Garruchal"
+        "Leavenworth: Sector Icicle Creek Canyon",
+        "Leavenworth: Sector Tumwater Canyon",
+        "Alcañiz: Sector El Barranco del Ciego"
     ],
     "zones": [
+        "Leavenworth: Sector Icicle Creek Canyon",
+        "Leavenworth: Sector Tumwater Canyon",
+        "Alcañiz: Sector El Barranco del Ciego",
         "El estrecho del Garruchal",
         "Leavenworth",
         "Index",
