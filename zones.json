@@ -1,12 +1,8 @@
 {
-    "date": "02-12-2020",
-    "previous_update": "01-12-2020",
+    "date": "03-12-2020",
+    "previous_update": "02-12-2020",
     "zones_total": 307,
-    "new_zones": [
-        "Leavenworth: Sector Icicle Creek Canyon",
-        "Leavenworth: Sector Tumwater Canyon",
-        "Alcañiz: Sector El Barranco del Ciego"
-    ],
+    "new_zones": [],
     "zones": [
         "Leavenworth: Sector Icicle Creek Canyon",
         "Leavenworth: Sector Tumwater Canyon",
