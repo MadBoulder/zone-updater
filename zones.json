@@ -1,9 +1,16 @@
 {
-    "date": "04-12-2020",
-    "previous_update": "03-12-2020",
-    "zones_total": 307,
-    "new_zones": [],
+    "date": "05-12-2020",
+    "previous_update": "04-12-2020",
+    "zones_total": 310,
+    "new_zones": [
+        "Brione: Sector Fulcrum",
+        "Rocklands: Sector Roadside",
+        "Alcañiz: Sector Studio 54"
+    ],
     "zones": [
+        "Brione: Sector Fulcrum",
+        "Rocklands: Sector Roadside",
+        "Alcañiz: Sector Studio 54",
         "Leavenworth: Sector Icicle Creek Canyon",
         "Leavenworth: Sector Tumwater Canyon",
         "Alcañiz: Sector El Barranco del Ciego",
