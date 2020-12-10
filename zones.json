@@ -1,9 +1,14 @@
 {
-    "date": "09-12-2020",
-    "previous_update": "08-12-2020",
-    "zones_total": 310,
-    "new_zones": [],
+    "date": "10-12-2020",
+    "previous_update": "09-12-2020",
+    "zones_total": 312,
+    "new_zones": [
+        "Jaizkibel",
+        "Peak District"
+    ],
     "zones": [
+        "Jaizkibel",
+        "Peak District",
         "Brione: Sector Fulcrum",
         "Rocklands: Sector Roadside",
         "Alcañiz: Sector Studio 54",
