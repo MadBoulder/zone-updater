@@ -1,11 +1,8 @@
 {
-    "date": "10-12-2020",
-    "previous_update": "09-12-2020",
+    "date": "11-12-2020",
+    "previous_update": "10-12-2020",
     "zones_total": 312,
-    "new_zones": [
-        "Jaizkibel",
-        "Peak District"
-    ],
+    "new_zones": [],
     "zones": [
         "Jaizkibel",
         "Peak District",
