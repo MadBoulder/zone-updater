@@ -1,24 +1,12 @@
 {
-    "date": "12-12-2020",
-    "previous_update": "11-12-2020",
-    "zones_total": 326,
+    "date": "13-12-2020",
+    "previous_update": "12-12-2020",
+    "zones_total": 327,
     "new_zones": [
-        "La Jonquera: Sector Carpe Diem",
-        "La Jonquera: Sector Puig del Corb",
-        "Leavenworth: Sector Mountain Home Road",
-        "La Pedriza: Sector Bosque de Canto Cochino Oeste",
-        "La Pedriza: Sector Crossroads Este",
-        "La Pedriza: Sector El Rodaje",
-        "La Pedriza: Sector El Castillo",
-        "La Pedriza: Sector Tres Coronas",
-        "La Pedriza: Sector Quebrantaherraduras",
-        "La Pedriza: Sector La Foca",
-        "La Pedriza: Sector La Ermita",
-        "La Pedriza: Sector Laboratorio Inferior",
-        "La Pedriza: Sector Depósitos Oeste",
-        "La Pedriza: Sector Dehesa Superior"
+        "Fontainebleau: Sector Roche aux Sabots"
     ],
     "zones": [
+        "Fontainebleau: Sector Roche aux Sabots",
         "La Jonquera: Sector Carpe Diem",
         "La Jonquera: Sector Puig del Corb",
         "Leavenworth: Sector Mountain Home Road",
