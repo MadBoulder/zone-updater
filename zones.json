@@ -1,11 +1,12 @@
 {
-    "date": "15-12-2020",
-    "previous_update": "14-12-2020",
-    "zones_total": 328,
+    "date": "16-12-2020",
+    "previous_update": "15-12-2020",
+    "zones_total": 329,
     "new_zones": [
-        "Albarracín: Sector El Cañón"
+        "Albarracín: Sector La Colina"
     ],
     "zones": [
+        "Albarracín: Sector La Colina",
         "Albarracín: Sector El Cañón",
         "Fontainebleau: Sector Roche aux Sabots",
         "La Jonquera: Sector Carpe Diem",
