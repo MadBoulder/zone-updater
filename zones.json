@@ -1,9 +1,12 @@
 {
-    "date": "18-12-2020",
-    "previous_update": "17-12-2020",
-    "zones_total": 329,
-    "new_zones": [],
+    "date": "20-12-2020",
+    "previous_update": "18-12-2020",
+    "zones_total": 330,
+    "new_zones": [
+        "Haycock Mountain"
+    ],
     "zones": [
+        "Haycock Mountain",
         "Albarracín: Sector La Colina",
         "Albarracín: Sector El Cañón",
         "Fontainebleau: Sector Roche aux Sabots",
