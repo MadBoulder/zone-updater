@@ -1,11 +1,12 @@
 {
-    "date": "20-12-2020",
-    "previous_update": "18-12-2020",
-    "zones_total": 330,
+    "date": "21-12-2020",
+    "previous_update": "20-12-2020",
+    "zones_total": 331,
     "new_zones": [
-        "Haycock Mountain"
+        "San Cassiano"
     ],
     "zones": [
+        "San Cassiano",
         "Haycock Mountain",
         "Albarracín: Sector La Colina",
         "Albarracín: Sector El Cañón",
