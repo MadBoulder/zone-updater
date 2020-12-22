@@ -1,11 +1,16 @@
 {
-    "date": "21-12-2020",
-    "previous_update": "20-12-2020",
-    "zones_total": 331,
+    "date": "22-12-2020",
+    "previous_update": "21-12-2020",
+    "zones_total": 334,
     "new_zones": [
-        "San Cassiano"
+        "Bezas: Sector El Barco",
+        "Albarracín: Sector Entre Tierras",
+        "Val Masino: Sector Visido - Il tendine dello Yeti"
     ],
     "zones": [
+        "Bezas: Sector El Barco",
+        "Albarracín: Sector Entre Tierras",
+        "Val Masino: Sector Visido - Il tendine dello Yeti",
         "San Cassiano",
         "Haycock Mountain",
         "Albarracín: Sector La Colina",
