@@ -1,13 +1,12 @@
 {
-    "date": "22-12-2020",
-    "previous_update": "21-12-2020",
-    "zones_total": 334,
+    "date": "23-12-2020",
+    "previous_update": "22-12-2020",
+    "zones_total": 335,
     "new_zones": [
-        "Bezas: Sector El Barco",
-        "Albarracín: Sector Entre Tierras",
-        "Val Masino: Sector Visido - Il tendine dello Yeti"
+        "Selvapiana"
     ],
     "zones": [
+        "Selvapiana",
         "Bezas: Sector El Barco",
         "Albarracín: Sector Entre Tierras",
         "Val Masino: Sector Visido - Il tendine dello Yeti",
