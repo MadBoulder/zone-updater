@@ -1,10 +1,8 @@
 {
-    "date": "23-12-2020",
-    "previous_update": "22-12-2020",
+    "date": "24-12-2020",
+    "previous_update": "23-12-2020",
     "zones_total": 335,
-    "new_zones": [
-        "Selvapiana"
-    ],
+    "new_zones": [],
     "zones": [
         "Selvapiana",
         "Bezas: Sector El Barco",
