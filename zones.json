@@ -1,9 +1,12 @@
 {
-    "date": "28-12-2020",
-    "previous_update": "27-12-2020",
-    "zones_total": 335,
-    "new_zones": [],
+    "date": "07-01-2021",
+    "previous_update": "28-12-2020",
+    "zones_total": 336,
+    "new_zones": [
+        "Okertal"
+    ],
     "zones": [
+        "Okertal",
         "Selvapiana",
         "Bezas: Sector El Barco",
         "Albarracín: Sector Entre Tierras",
