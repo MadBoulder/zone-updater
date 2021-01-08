@@ -1,11 +1,14 @@
 {
-    "date": "07-01-2021",
-    "previous_update": "28-12-2020",
-    "zones_total": 336,
+    "date": "08-01-2021",
+    "previous_update": "07-01-2021",
+    "zones_total": 338,
     "new_zones": [
-        "Okertal"
+        "Black Mountain",
+        "Pferdestall"
     ],
     "zones": [
+        "Black Mountain",
+        "Pferdestall",
         "Okertal",
         "Selvapiana",
         "Bezas: Sector El Barco",
