@@ -1,12 +1,16 @@
 {
-    "date": "08-01-2021",
-    "previous_update": "07-01-2021",
-    "zones_total": 338,
+    "date": "10-01-2021",
+    "previous_update": "08-01-2021",
+    "zones_total": 341,
     "new_zones": [
-        "Black Mountain",
-        "Pferdestall"
+        "La Pedriza: Sector Dehesa Inferior",
+        "Jupiter Boulders",
+        "Torrelodones"
     ],
     "zones": [
+        "La Pedriza: Sector Dehesa Inferior",
+        "Jupiter Boulders",
+        "Torrelodones",
         "Black Mountain",
         "Pferdestall",
         "Okertal",
