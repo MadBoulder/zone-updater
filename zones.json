@@ -1,12 +1,8 @@
 {
-    "date": "10-01-2021",
-    "previous_update": "08-01-2021",
+    "date": "11-01-2021",
+    "previous_update": "10-01-2021",
     "zones_total": 341,
-    "new_zones": [
-        "La Pedriza: Sector Dehesa Inferior",
-        "Jupiter Boulders",
-        "Torrelodones"
-    ],
+    "new_zones": [],
     "zones": [
         "La Pedriza: Sector Dehesa Inferior",
         "Jupiter Boulders",
