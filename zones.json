@@ -1,11 +1,8 @@
 {
-    "date": "12-01-2021",
-    "previous_update": "11-01-2021",
+    "date": "13-01-2021",
+    "previous_update": "12-01-2021",
     "zones_total": 343,
-    "new_zones": [
-        "La Pedriza: Sector La Colmena",
-        "Espiel"
-    ],
+    "new_zones": [],
     "zones": [
         "La Pedriza: Sector La Colmena",
         "Espiel",
