@@ -1,9 +1,12 @@
 {
-    "date": "13-01-2021",
-    "previous_update": "12-01-2021",
-    "zones_total": 343,
-    "new_zones": [],
+    "date": "14-01-2021",
+    "previous_update": "13-01-2021",
+    "zones_total": 344,
+    "new_zones": [
+        "La Pedriza: Sector Mancevilla Superior"
+    ],
     "zones": [
+        "La Pedriza: Sector Mancevilla Superior",
         "La Pedriza: Sector La Colmena",
         "Espiel",
         "La Pedriza: Sector Dehesa Inferior",
