@@ -1,11 +1,8 @@
 {
-    "date": "17-01-2021",
-    "previous_update": "15-01-2021",
+    "date": "18-01-2021",
+    "previous_update": "17-01-2021",
     "zones_total": 346,
-    "new_zones": [
-        "Joshua Tree",
-        "Red Rocks"
-    ],
+    "new_zones": [],
     "zones": [
         "Joshua Tree",
         "Red Rocks",
