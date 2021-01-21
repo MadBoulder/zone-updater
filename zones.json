@@ -1,11 +1,8 @@
 {
-    "date": "20-01-2021",
-    "previous_update": "19-01-2021",
+    "date": "21-01-2021",
+    "previous_update": "20-01-2021",
     "zones_total": 348,
-    "new_zones": [
-        "Can Bruguera: Sector Vall de Cogombres",
-        "Albarracín: Sector Territorio Discovery"
-    ],
+    "new_zones": [],
     "zones": [
         "Can Bruguera: Sector Vall de Cogombres",
         "Albarracín: Sector Territorio Discovery",
