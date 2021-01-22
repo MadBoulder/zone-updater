@@ -1,9 +1,12 @@
 {
-    "date": "21-01-2021",
-    "previous_update": "20-01-2021",
-    "zones_total": 348,
-    "new_zones": [],
+    "date": "22-01-2021",
+    "previous_update": "21-01-2021",
+    "zones_total": 349,
+    "new_zones": [
+        "Llíria"
+    ],
     "zones": [
+        "Llíria",
         "Can Bruguera: Sector Vall de Cogombres",
         "Albarracín: Sector Territorio Discovery",
         "Joshua Tree",
