@@ -1,9 +1,20 @@
 {
-    "date": "26-01-2021",
-    "previous_update": "25-01-2021",
-    "zones_total": 351,
-    "new_zones": [],
+    "date": "27-01-2021",
+    "previous_update": "26-01-2021",
+    "zones_total": 356,
+    "new_zones": [
+        "Red Rocks: Sector Red Spring",
+        "Red Rocks: Sector Kraft Boulders",
+        "Red Rocks: Sector First Pullout",
+        "Red Rocks: Sector Calico basin",
+        "Red Rocks: Sector Black Velvet Canyon"
+    ],
     "zones": [
+        "Red Rocks: Sector Red Spring",
+        "Red Rocks: Sector Kraft Boulders",
+        "Red Rocks: Sector First Pullout",
+        "Red Rocks: Sector Calico basin",
+        "Red Rocks: Sector Black Velvet Canyon",
         "Brione: Sector Pièe",
         "Moe's Valley",
         "Llíria",
