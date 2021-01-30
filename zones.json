@@ -1,11 +1,12 @@
 {
-    "date": "29-01-2021",
-    "previous_update": "28-01-2021",
-    "zones_total": 358,
+    "date": "30-01-2021",
+    "previous_update": "29-01-2021",
+    "zones_total": 359,
     "new_zones": [
-        "Red Rocks: Sector Gateway Canyon"
+        "Salvanebleau: Sector del Camí"
     ],
     "zones": [
+        "Salvanebleau: Sector del Camí",
         "Red Rocks: Sector Gateway Canyon",
         "Crafnant",
         "Red Rocks: Sector Red Spring",
