@@ -1,11 +1,12 @@
 {
-    "date": "30-01-2021",
-    "previous_update": "29-01-2021",
-    "zones_total": 359,
+    "date": "31-01-2021",
+    "previous_update": "30-01-2021",
+    "zones_total": 360,
     "new_zones": [
-        "Salvanebleau: Sector del Camí"
+        "Blausee"
     ],
     "zones": [
+        "Blausee",
         "Salvanebleau: Sector del Camí",
         "Red Rocks: Sector Gateway Canyon",
         "Crafnant",
