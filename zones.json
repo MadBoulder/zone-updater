@@ -1,11 +1,8 @@
 {
-    "date": "01-02-2021",
-    "previous_update": "31-01-2021",
+    "date": "02-02-2021",
+    "previous_update": "01-02-2021",
     "zones_total": 362,
-    "new_zones": [
-        "La Pedriza: Sector Mancevilla Inferior",
-        "Targasonne: Sector Gaia"
-    ],
+    "new_zones": [],
     "zones": [
         "La Pedriza: Sector Mancevilla Inferior",
         "Targasonne: Sector Gaia",
