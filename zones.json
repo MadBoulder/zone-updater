@@ -1,9 +1,14 @@
 {
-    "date": "02-02-2021",
-    "previous_update": "01-02-2021",
-    "zones_total": 362,
-    "new_zones": [],
+    "date": "03-02-2021",
+    "previous_update": "02-02-2021",
+    "zones_total": 364,
+    "new_zones": [
+        "Pietra del toro",
+        "Claro"
+    ],
     "zones": [
+        "Pietra del toro",
+        "Claro",
         "La Pedriza: Sector Mancevilla Inferior",
         "Targasonne: Sector Gaia",
         "Blausee",
