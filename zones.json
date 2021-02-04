@@ -1,11 +1,8 @@
 {
-    "date": "03-02-2021",
-    "previous_update": "02-02-2021",
+    "date": "04-02-2021",
+    "previous_update": "03-02-2021",
     "zones_total": 364,
-    "new_zones": [
-        "Pietra del toro",
-        "Claro"
-    ],
+    "new_zones": [],
     "zones": [
         "Pietra del toro",
         "Claro",
