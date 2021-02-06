@@ -1,9 +1,14 @@
 {
-    "date": "05-02-2021",
-    "previous_update": "04-02-2021",
-    "zones_total": 364,
-    "new_zones": [],
+    "date": "06-02-2021",
+    "previous_update": "05-02-2021",
+    "zones_total": 366,
+    "new_zones": [
+        "Albarracín: Sector La Senda",
+        "Trowbarrow"
+    ],
     "zones": [
+        "Albarracín: Sector La Senda",
+        "Trowbarrow",
         "Pietra del toro",
         "Claro",
         "La Pedriza: Sector Mancevilla Inferior",
