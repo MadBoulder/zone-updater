@@ -1,9 +1,12 @@
 {
-    "date": "08-02-2021",
-    "previous_update": "07-02-2021",
-    "zones_total": 367,
-    "new_zones": [],
+    "date": "09-02-2021",
+    "previous_update": "08-02-2021",
+    "zones_total": 368,
+    "new_zones": [
+        "Alcañiz: Sector Santa Bárbara"
+    ],
     "zones": [
+        "Alcañiz: Sector Santa Bárbara",
         "Fontainebleau: Sector Bois Rond",
         "Albarracín: Sector La Senda",
         "Trowbarrow",
