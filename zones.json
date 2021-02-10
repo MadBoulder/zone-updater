@@ -1,11 +1,12 @@
 {
-    "date": "09-02-2021",
-    "previous_update": "08-02-2021",
-    "zones_total": 368,
+    "date": "10-02-2021",
+    "previous_update": "09-02-2021",
+    "zones_total": 369,
     "new_zones": [
-        "Alcañiz: Sector Santa Bárbara"
+        "Bezas: Sector Panea"
     ],
     "zones": [
+        "Bezas: Sector Panea",
         "Alcañiz: Sector Santa Bárbara",
         "Fontainebleau: Sector Bois Rond",
         "Albarracín: Sector La Senda",
