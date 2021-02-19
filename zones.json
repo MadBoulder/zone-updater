@@ -1,9 +1,12 @@
 {
-    "date": "18-02-2021",
-    "previous_update": "17-02-2021",
-    "zones_total": 373,
-    "new_zones": [],
+    "date": "19-02-2021",
+    "previous_update": "18-02-2021",
+    "zones_total": 374,
+    "new_zones": [
+        "Eus"
+    ],
     "zones": [
+        "Eus",
         "Fontainebleau: Sector Rocher Canon",
         "Maldà",
         "Priest Draw",
