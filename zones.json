@@ -1,13 +1,8 @@
 {
-    "date": "20-02-2021",
-    "previous_update": "19-02-2021",
+    "date": "21-02-2021",
+    "previous_update": "20-02-2021",
     "zones_total": 378,
-    "new_zones": [
-        "Bezas: Sector La Granja",
-        "Fontainebleau: Sector Cuvier Est",
-        "El Cogul: Sector Beer Action",
-        "Trasobares"
-    ],
+    "new_zones": [],
     "zones": [
         "Bezas: Sector La Granja",
         "Fontainebleau: Sector Cuvier Est",
