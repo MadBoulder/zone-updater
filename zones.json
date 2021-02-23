@@ -1,9 +1,14 @@
 {
-    "date": "22-02-2021",
-    "previous_update": "21-02-2021",
-    "zones_total": 378,
-    "new_zones": [],
+    "date": "23-02-2021",
+    "previous_update": "22-02-2021",
+    "zones_total": 380,
+    "new_zones": [
+        "Alcañiz: Sector La Paridera",
+        "Corbera de Llobregat"
+    ],
     "zones": [
+        "Alcañiz: Sector La Paridera",
+        "Corbera de Llobregat",
         "Bezas: Sector La Granja",
         "Fontainebleau: Sector Cuvier Est",
         "El Cogul: Sector Beer Action",
