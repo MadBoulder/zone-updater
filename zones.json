@@ -1,11 +1,12 @@
 {
-    "date": "24-02-2021",
-    "previous_update": "23-02-2021",
-    "zones_total": 381,
+    "date": "25-02-2021",
+    "previous_update": "24-02-2021",
+    "zones_total": 382,
     "new_zones": [
-        "Castle Rock"
+        "Fontainebleau: Sector Rocher Gréau"
     ],
     "zones": [
+        "Fontainebleau: Sector Rocher Gréau",
         "Castle Rock",
         "Alcañiz: Sector La Paridera",
         "Corbera de Llobregat",
