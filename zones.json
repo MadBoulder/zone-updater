@@ -1,11 +1,12 @@
 {
-    "date": "25-02-2021",
-    "previous_update": "24-02-2021",
-    "zones_total": 382,
+    "date": "26-02-2021",
+    "previous_update": "25-02-2021",
+    "zones_total": 383,
     "new_zones": [
-        "Fontainebleau: Sector Rocher Gréau"
+        "Burguillo"
     ],
     "zones": [
+        "Burguillo",
         "Fontainebleau: Sector Rocher Gréau",
         "Castle Rock",
         "Alcañiz: Sector La Paridera",
