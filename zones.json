@@ -1,11 +1,14 @@
 {
-    "date": "26-02-2021",
-    "previous_update": "25-02-2021",
-    "zones_total": 383,
+    "date": "27-02-2021",
+    "previous_update": "26-02-2021",
+    "zones_total": 385,
     "new_zones": [
-        "Burguillo"
+        "Sad Boulders",
+        "Berkeley"
     ],
     "zones": [
+        "Sad Boulders",
+        "Berkeley",
         "Burguillo",
         "Fontainebleau: Sector Rocher Gréau",
         "Castle Rock",
