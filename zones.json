@@ -1,9 +1,14 @@
 {
-    "date": "28-02-2021",
-    "previous_update": "27-02-2021",
-    "zones_total": 385,
-    "new_zones": [],
+    "date": "01-03-2021",
+    "previous_update": "28-02-2021",
+    "zones_total": 387,
+    "new_zones": [
+        "Tanygrisiau",
+        "Bowderstone"
+    ],
     "zones": [
+        "Tanygrisiau",
+        "Bowderstone",
         "Sad Boulders",
         "Berkeley",
         "Burguillo",
