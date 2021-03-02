@@ -1,11 +1,8 @@
 {
-    "date": "01-03-2021",
-    "previous_update": "28-02-2021",
+    "date": "02-03-2021",
+    "previous_update": "01-03-2021",
     "zones_total": 387,
-    "new_zones": [
-        "Tanygrisiau",
-        "Bowderstone"
-    ],
+    "new_zones": [],
     "zones": [
         "Tanygrisiau",
         "Bowderstone",
