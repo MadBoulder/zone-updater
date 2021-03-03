@@ -1,9 +1,14 @@
 {
-    "date": "02-03-2021",
-    "previous_update": "01-03-2021",
-    "zones_total": 387,
-    "new_zones": [],
+    "date": "03-03-2021",
+    "previous_update": "02-03-2021",
+    "zones_total": 389,
+    "new_zones": [
+        "La Pedriza: Sector Los Martínez",
+        "Lad Stones"
+    ],
     "zones": [
+        "La Pedriza: Sector Los Martínez",
+        "Lad Stones",
         "Tanygrisiau",
         "Bowderstone",
         "Sad Boulders",
