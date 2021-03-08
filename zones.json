@@ -1,14 +1,8 @@
 {
-    "date": "07-03-2021",
-    "previous_update": "05-03-2021",
+    "date": "08-03-2021",
+    "previous_update": "07-03-2021",
     "zones_total": 396,
-    "new_zones": [
-        "Carabaña",
-        "La Pedriza: Sector La Cuesta",
-        "Can Boquet: Sector La Perla",
-        "Dow Crag",
-        "La Pedriza: Sector El Canchal"
-    ],
+    "new_zones": [],
     "zones": [
         "Carabaña",
         "La Pedriza: Sector La Cuesta",
