@@ -1,9 +1,12 @@
 {
-    "date": "15-03-2021",
-    "previous_update": "14-03-2021",
-    "zones_total": 396,
-    "new_zones": [],
+    "date": "16-03-2021",
+    "previous_update": "15-03-2021",
+    "zones_total": 397,
+    "new_zones": [
+        "La Jonquera: Sector La Joieria"
+    ],
     "zones": [
+        "La Jonquera: Sector La Joieria",
         "Carabaña",
         "La Pedriza: Sector La Cuesta",
         "Can Boquet: Sector La Perla",
