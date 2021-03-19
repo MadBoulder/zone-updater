@@ -1,9 +1,14 @@
 {
-    "date": "18-03-2021",
-    "previous_update": "17-03-2021",
-    "zones_total": 397,
-    "new_zones": [],
+    "date": "19-03-2021",
+    "previous_update": "18-03-2021",
+    "zones_total": 399,
+    "new_zones": [
+        "Malibu Tunnel Boulders",
+        "Chironico: Sector Serre moi fort"
+    ],
     "zones": [
+        "Malibu Tunnel Boulders",
+        "Chironico: Sector Serre moi fort",
         "La Jonquera: Sector La Joieria",
         "Carabaña",
         "La Pedriza: Sector La Cuesta",
