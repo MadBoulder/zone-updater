@@ -1,12 +1,18 @@
 {
-    "date": "19-03-2021",
-    "previous_update": "18-03-2021",
-    "zones_total": 399,
+    "date": "22-03-2021",
+    "previous_update": "19-03-2021",
+    "zones_total": 403,
     "new_zones": [
-        "Malibu Tunnel Boulders",
-        "Chironico: Sector Serre moi fort"
+        "Osogna",
+        "Chinchilla de Montearagón",
+        "La Pedriza: Sector Cancho Islazo",
+        "Blattiswald"
     ],
     "zones": [
+        "Osogna",
+        "Chinchilla de Montearagón",
+        "La Pedriza: Sector Cancho Islazo",
+        "Blattiswald",
         "Malibu Tunnel Boulders",
         "Chironico: Sector Serre moi fort",
         "La Jonquera: Sector La Joieria",
