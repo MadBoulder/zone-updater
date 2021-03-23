@@ -1,13 +1,8 @@
 {
-    "date": "22-03-2021",
-    "previous_update": "19-03-2021",
+    "date": "23-03-2021",
+    "previous_update": "22-03-2021",
     "zones_total": 403,
-    "new_zones": [
-        "Osogna",
-        "Chinchilla de Montearagón",
-        "La Pedriza: Sector Cancho Islazo",
-        "Blattiswald"
-    ],
+    "new_zones": [],
     "zones": [
         "Osogna",
         "Chinchilla de Montearagón",
