@@ -1,9 +1,12 @@
 {
-    "date": "23-03-2021",
-    "previous_update": "22-03-2021",
-    "zones_total": 403,
-    "new_zones": [],
+    "date": "24-03-2021",
+    "previous_update": "23-03-2021",
+    "zones_total": 404,
+    "new_zones": [
+        "El Buste"
+    ],
     "zones": [
+        "El Buste",
         "Osogna",
         "Chinchilla de Montearagón",
         "La Pedriza: Sector Cancho Islazo",
