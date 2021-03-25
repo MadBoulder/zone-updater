@@ -1,11 +1,12 @@
 {
-    "date": "24-03-2021",
-    "previous_update": "23-03-2021",
-    "zones_total": 404,
+    "date": "25-03-2021",
+    "previous_update": "24-03-2021",
+    "zones_total": 405,
     "new_zones": [
-        "El Buste"
+        "Val Masino: Sector Visido - I crotti"
     ],
     "zones": [
+        "Val Masino: Sector Visido - I crotti",
         "El Buste",
         "Osogna",
         "Chinchilla de Montearagón",
