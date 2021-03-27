@@ -1,9 +1,16 @@
 {
-    "date": "26-03-2021",
-    "previous_update": "25-03-2021",
-    "zones_total": 405,
-    "new_zones": [],
+    "date": "27-03-2021",
+    "previous_update": "26-03-2021",
+    "zones_total": 408,
+    "new_zones": [
+        "Val Calanca",
+        "Bridge of the Gods",
+        "Carver"
+    ],
     "zones": [
+        "Val Calanca",
+        "Bridge of the Gods",
+        "Carver",
         "Val Masino: Sector Visido - I crotti",
         "El Buste",
         "Osogna",
