@@ -1,13 +1,14 @@
 {
-    "date": "27-03-2021",
-    "previous_update": "26-03-2021",
-    "zones_total": 408,
+    "date": "29-03-2021",
+    "previous_update": "27-03-2021",
+    "zones_total": 410,
     "new_zones": [
-        "Val Calanca",
-        "Bridge of the Gods",
-        "Carver"
+        "Great Barrington",
+        "Bolton"
     ],
     "zones": [
+        "Great Barrington",
+        "Bolton",
         "Val Calanca",
         "Bridge of the Gods",
         "Carver",
