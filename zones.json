@@ -1,11 +1,8 @@
 {
-    "date": "29-03-2021",
-    "previous_update": "27-03-2021",
+    "date": "30-03-2021",
+    "previous_update": "29-03-2021",
     "zones_total": 410,
-    "new_zones": [
-        "Great Barrington",
-        "Bolton"
-    ],
+    "new_zones": [],
     "zones": [
         "Great Barrington",
         "Bolton",
