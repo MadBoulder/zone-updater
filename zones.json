@@ -1,9 +1,22 @@
 {
-    "date": "06-04-2021",
-    "previous_update": "05-04-2021",
-    "zones_total": 411,
-    "new_zones": [],
+    "date": "07-04-2021",
+    "previous_update": "06-04-2021",
+    "zones_total": 417,
+    "new_zones": [
+        "Arvolí: Sector Ermita - Racó de la Puta",
+        "Arbolí: Sector Agulles - La Tortuga",
+        "Mont-roig del Camp: Sector Will'O",
+        "Mont-roig del Camp: Sector Rueda Fortuna",
+        "Arbolí: Sector Ermita - El cub",
+        "Arbolí: Sector Ermita - Machu Pichu"
+    ],
     "zones": [
+        "Arvolí: Sector Ermita - Racó de la Puta",
+        "Arbolí: Sector Agulles - La Tortuga",
+        "Mont-roig del Camp: Sector Will'O",
+        "Mont-roig del Camp: Sector Rueda Fortuna",
+        "Arbolí: Sector Ermita - El cub",
+        "Arbolí: Sector Ermita - Machu Pichu",
         "Mocanaqua",
         "Great Barrington",
         "Bolton",
