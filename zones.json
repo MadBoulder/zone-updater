@@ -1,17 +1,16 @@
 {
-    "date": "07-04-2021",
-    "previous_update": "06-04-2021",
-    "zones_total": 417,
+    "date": "08-04-2021",
+    "previous_update": "07-04-2021",
+    "zones_total": 419,
     "new_zones": [
-        "Arvolí: Sector Ermita - Racó de la Puta",
-        "Arbolí: Sector Agulles - La Tortuga",
-        "Mont-roig del Camp: Sector Will'O",
-        "Mont-roig del Camp: Sector Rueda Fortuna",
-        "Arbolí: Sector Ermita - El cub",
-        "Arbolí: Sector Ermita - Machu Pichu"
+        "Gunks",
+        "Arbolí: Sector Ermita - Talibans",
+        "Arbolí: Sector Ermita - Racó de la Puta"
     ],
     "zones": [
-        "Arvolí: Sector Ermita - Racó de la Puta",
+        "Gunks",
+        "Arbolí: Sector Ermita - Talibans",
+        "Arbolí: Sector Ermita - Racó de la Puta",
         "Arbolí: Sector Agulles - La Tortuga",
         "Mont-roig del Camp: Sector Will'O",
         "Mont-roig del Camp: Sector Rueda Fortuna",
