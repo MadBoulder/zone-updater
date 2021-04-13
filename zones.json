@@ -1,18 +1,8 @@
 {
-    "date": "12-04-2021",
-    "previous_update": "09-04-2021",
+    "date": "13-04-2021",
+    "previous_update": "12-04-2021",
     "zones_total": 428,
-    "new_zones": [
-        "La Pedriza: Sector Las Ruinas",
-        "Sheep Pen",
-        "Woodwell",
-        "Mont-roig del Camp: Sector Bleau Sea",
-        "Ferradillo",
-        "La Febró",
-        "Pedrajas",
-        "Arbolí: Sector Ermita - Club dels Parats",
-        "Governor Stable"
-    ],
+    "new_zones": [],
     "zones": [
         "La Pedriza: Sector Las Ruinas",
         "Sheep Pen",
