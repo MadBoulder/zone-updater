@@ -1,12 +1,8 @@
 {
-    "date": "14-04-2021",
-    "previous_update": "13-04-2021",
+    "date": "15-04-2021",
+    "previous_update": "14-04-2021",
     "zones_total": 431,
-    "new_zones": [
-        "Mont-roig del Camp: Sector l'Ermitany",
-        "Val Masino: Sector Pilastri del Pesgunfi",
-        "Arbolí: Sector Ermita - Filomàtic"
-    ],
+    "new_zones": [],
     "zones": [
         "Mont-roig del Camp: Sector l'Ermitany",
         "Val Masino: Sector Pilastri del Pesgunfi",
