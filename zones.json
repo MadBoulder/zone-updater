@@ -1,11 +1,14 @@
 {
-    "date": "17-04-2021",
-    "previous_update": "16-04-2021",
-    "zones_total": 432,
+    "date": "18-04-2021",
+    "previous_update": "17-04-2021",
+    "zones_total": 434,
     "new_zones": [
-        "Villanueva del Rosario"
+        "Indian Creek",
+        "Sintra"
     ],
     "zones": [
+        "Indian Creek",
+        "Sintra",
         "Villanueva del Rosario",
         "Mont-roig del Camp: Sector l'Ermitany",
         "Val Masino: Sector Pilastri del Pesgunfi",
