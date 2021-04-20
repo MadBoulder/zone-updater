@@ -1,9 +1,12 @@
 {
-    "date": "19-04-2021",
-    "previous_update": "18-04-2021",
-    "zones_total": 434,
-    "new_zones": [],
+    "date": "20-04-2021",
+    "previous_update": "19-04-2021",
+    "zones_total": 435,
+    "new_zones": [
+        "Val di Mello: Sector Il mostro"
+    ],
     "zones": [
+        "Val di Mello: Sector Il mostro",
         "Indian Creek",
         "Sintra",
         "Villanueva del Rosario",
