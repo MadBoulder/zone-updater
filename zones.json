@@ -1,11 +1,16 @@
 {
-    "date": "20-04-2021",
-    "previous_update": "19-04-2021",
-    "zones_total": 435,
+    "date": "21-04-2021",
+    "previous_update": "20-04-2021",
+    "zones_total": 438,
     "new_zones": [
-        "Val di Mello: Sector Il mostro"
+        "Brione: Sector Pianesc",
+        "Val di Mello: Sector La M",
+        "Spriana"
     ],
     "zones": [
+        "Brione: Sector Pianesc",
+        "Val di Mello: Sector La M",
+        "Spriana",
         "Val di Mello: Sector Il mostro",
         "Indian Creek",
         "Sintra",
