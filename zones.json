@@ -1,12 +1,8 @@
 {
-    "date": "21-04-2021",
-    "previous_update": "20-04-2021",
+    "date": "22-04-2021",
+    "previous_update": "21-04-2021",
     "zones_total": 438,
-    "new_zones": [
-        "Brione: Sector Pianesc",
-        "Val di Mello: Sector La M",
-        "Spriana"
-    ],
+    "new_zones": [],
     "zones": [
         "Brione: Sector Pianesc",
         "Val di Mello: Sector La M",
