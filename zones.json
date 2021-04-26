@@ -1,9 +1,12 @@
 {
-    "date": "25-04-2021",
-    "previous_update": "24-04-2021",
-    "zones_total": 438,
-    "new_zones": [],
+    "date": "26-04-2021",
+    "previous_update": "25-04-2021",
+    "zones_total": 439,
+    "new_zones": [
+        "Port Ysgo"
+    ],
     "zones": [
+        "Port Ysgo",
         "Brione: Sector Pianesc",
         "Val di Mello: Sector La M",
         "Spriana",
