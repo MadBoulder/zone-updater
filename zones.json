@@ -1,9 +1,20 @@
 {
-    "date": "30-04-2021",
-    "previous_update": "29-04-2021",
-    "zones_total": 442,
-    "new_zones": [],
+    "date": "01-05-2021",
+    "previous_update": "30-04-2021",
+    "zones_total": 447,
+    "new_zones": [
+        "Fontainebleau: Sector Franchard Meyer",
+        "Fontainebleau: Rocher des Demoiselles",
+        "Maes Newyddion",
+        "Gouther Crag",
+        "Elephantitus"
+    ],
     "zones": [
+        "Fontainebleau: Sector Franchard Meyer",
+        "Fontainebleau: Rocher des Demoiselles",
+        "Maes Newyddion",
+        "Gouther Crag",
+        "Elephantitus",
         "Collsuspina",
         "Zuheros",
         "Cervià",
