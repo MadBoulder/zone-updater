@@ -1,9 +1,14 @@
 {
-    "date": "02-05-2021",
-    "previous_update": "01-05-2021",
-    "zones_total": 447,
-    "new_zones": [],
+    "date": "03-05-2021",
+    "previous_update": "02-05-2021",
+    "zones_total": 449,
+    "new_zones": [
+        "Fontainebleau: Sector Coquibus Rumont",
+        "Mont-roig del Camp: Sector Amagat"
+    ],
     "zones": [
+        "Fontainebleau: Sector Coquibus Rumont",
+        "Mont-roig del Camp: Sector Amagat",
         "Fontainebleau: Sector Franchard Meyer",
         "Fontainebleau: Rocher des Demoiselles",
         "Maes Newyddion",
