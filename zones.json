@@ -1,11 +1,8 @@
 {
-    "date": "03-05-2021",
-    "previous_update": "02-05-2021",
+    "date": "04-05-2021",
+    "previous_update": "03-05-2021",
     "zones_total": 449,
-    "new_zones": [
-        "Fontainebleau: Sector Coquibus Rumont",
-        "Mont-roig del Camp: Sector Amagat"
-    ],
+    "new_zones": [],
     "zones": [
         "Fontainebleau: Sector Coquibus Rumont",
         "Mont-roig del Camp: Sector Amagat",
