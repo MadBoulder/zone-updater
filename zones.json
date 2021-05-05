@@ -1,9 +1,12 @@
 {
-    "date": "04-05-2021",
-    "previous_update": "03-05-2021",
-    "zones_total": 449,
-    "new_zones": [],
+    "date": "05-05-2021",
+    "previous_update": "04-05-2021",
+    "zones_total": 450,
+    "new_zones": [
+        "Rocklands: Sector Roadkill Cafe"
+    ],
     "zones": [
+        "Rocklands: Sector Roadkill Cafe",
         "Fontainebleau: Sector Coquibus Rumont",
         "Mont-roig del Camp: Sector Amagat",
         "Fontainebleau: Sector Franchard Meyer",
