@@ -1,9 +1,12 @@
 {
-    "date": "07-05-2021",
-    "previous_update": "06-05-2021",
-    "zones_total": 451,
-    "new_zones": [],
+    "date": "08-05-2021",
+    "previous_update": "07-05-2021",
+    "zones_total": 452,
+    "new_zones": [
+        "Back Bowden Doors"
+    ],
     "zones": [
+        "Back Bowden Doors",
         "Nesscliffe",
         "Rocklands: Sector Roadkill Cafe",
         "Fontainebleau: Sector Coquibus Rumont",
