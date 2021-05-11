@@ -1,9 +1,12 @@
 {
-    "date": "10-05-2021",
-    "previous_update": "09-05-2021",
-    "zones_total": 452,
-    "new_zones": [],
+    "date": "11-05-2021",
+    "previous_update": "10-05-2021",
+    "zones_total": 453,
+    "new_zones": [
+        "Targasonne: Sector Canal"
+    ],
     "zones": [
+        "Targasonne: Sector Canal",
         "Back Bowden Doors",
         "Nesscliffe",
         "Rocklands: Sector Roadkill Cafe",
