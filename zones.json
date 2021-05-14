@@ -1,9 +1,14 @@
 {
-    "date": "13-05-2021",
-    "previous_update": "12-05-2021",
-    "zones_total": 453,
-    "new_zones": [],
+    "date": "14-05-2021",
+    "previous_update": "13-05-2021",
+    "zones_total": 455,
+    "new_zones": [
+        "La Capelle",
+        "Kyloe Woods"
+    ],
     "zones": [
+        "La Capelle",
+        "Kyloe Woods",
         "Targasonne: Sector Canal",
         "Back Bowden Doors",
         "Nesscliffe",
