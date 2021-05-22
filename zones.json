@@ -1,9 +1,12 @@
 {
-    "date": "21-05-2021",
-    "previous_update": "20-05-2021",
-    "zones_total": 455,
-    "new_zones": [],
+    "date": "22-05-2021",
+    "previous_update": "21-05-2021",
+    "zones_total": 456,
+    "new_zones": [
+        "El Cogul: Sector Mestre Muten"
+    ],
     "zones": [
+        "El Cogul: Sector Mestre Muten",
         "La Capelle",
         "Kyloe Woods",
         "Targasonne: Sector Canal",
