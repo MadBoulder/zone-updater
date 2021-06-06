@@ -1,9 +1,12 @@
 {
-    "date": "05-06-2021",
-    "previous_update": "04-06-2021",
-    "zones_total": 458,
-    "new_zones": [],
+    "date": "06-06-2021",
+    "previous_update": "05-06-2021",
+    "zones_total": 459,
+    "new_zones": [
+        "Val Daone: Sector La Plana"
+    ],
     "zones": [
+        "Val Daone: Sector La Plana",
         "Parisella's Cave",
         "Cerro Muriano",
         "El Cogul: Sector Mestre Muten",
