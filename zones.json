@@ -1,9 +1,14 @@
 {
-    "date": "07-06-2021",
-    "previous_update": "06-06-2021",
-    "zones_total": 459,
-    "new_zones": [],
+    "date": "08-06-2021",
+    "previous_update": "07-06-2021",
+    "zones_total": 460,
+    "new_zones": [
+        "Alcañiz: Sector La bandereta",
+        "Yosemite Valley: Sector Camp 4",
+        "Yosemite Valley"
+    ],
     "zones": [
+        "Alcañiz: Sector La bandereta",
         "Val Daone: Sector La Plana",
         "Parisella's Cave",
         "Cerro Muriano",
@@ -374,8 +379,8 @@
         "Targasonne: Sector Créatura",
         "Salvanebleau: Sector de la Font",
         "Targasonne: Sector Arche",
-        "Yosemite: Sector Camp 4",
-        "Yosemite",
+        "Yosemite Valley: Sector Camp 4",
+        "Yosemite Valley",
         "Taradell",
         "Zion National Park",
         "Salvanebleau: Sector Cooperativa",
