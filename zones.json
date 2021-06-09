@@ -1,12 +1,8 @@
 {
-    "date": "08-06-2021",
-    "previous_update": "07-06-2021",
+    "date": "09-06-2021",
+    "previous_update": "08-06-2021",
     "zones_total": 460,
-    "new_zones": [
-        "Alcañiz: Sector La bandereta",
-        "Yosemite Valley: Sector Camp 4",
-        "Yosemite Valley"
-    ],
+    "new_zones": [],
     "zones": [
         "Alcañiz: Sector La bandereta",
         "Val Daone: Sector La Plana",
