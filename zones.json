@@ -1,9 +1,12 @@
 {
-    "date": "10-06-2021",
-    "previous_update": "09-06-2021",
-    "zones_total": 460,
-    "new_zones": [],
+    "date": "11-06-2021",
+    "previous_update": "10-06-2021",
+    "zones_total": 461,
+    "new_zones": [
+        "Casabermeja"
+    ],
     "zones": [
+        "Casabermeja",
         "Alcañiz: Sector La bandereta",
         "Val Daone: Sector La Plana",
         "Parisella's Cave",
