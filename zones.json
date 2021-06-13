@@ -1,11 +1,23 @@
 {
-    "date": "11-06-2021",
-    "previous_update": "10-06-2021",
-    "zones_total": 461,
+    "date": "13-06-2021",
+    "previous_update": "11-06-2021",
+    "zones_total": 467,
     "new_zones": [
-        "Casabermeja"
+        "Clogwyn y Bustach",
+        "El Bierzo",
+        "Corme",
+        "Trégastel",
+        "Alcañiz: Sector Camineros",
+        "Rambla Perea",
+        "El Bierzo: Sector Ferradillo"
     ],
     "zones": [
+        "Clogwyn y Bustach",
+        "El Bierzo",
+        "Corme",
+        "Trégastel",
+        "Alcañiz: Sector Camineros",
+        "Rambla Perea",
         "Casabermeja",
         "Alcañiz: Sector La bandereta",
         "Val Daone: Sector La Plana",
@@ -43,7 +55,7 @@
         "Sheep Pen",
         "Woodwell",
         "Mont-roig del Camp: Sector Bleau Sea",
-        "Ferradillo",
+        "El Bierzo: Sector Ferradillo",
         "La Febró",
         "Pedrajas",
         "Arbolí: Sector Ermita - Club dels Parats",
