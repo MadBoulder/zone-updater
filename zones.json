@@ -1,13 +1,16 @@
 {
-    "date": "16-06-2021",
-    "previous_update": "15-06-2021",
-    "zones_total": 477,
+    "date": "17-06-2021",
+    "previous_update": "16-06-2021",
+    "zones_total": 480,
     "new_zones": [
-        "Fontainebleau: Sector Marlanval",
-        "Fontainebleau: Sector Franchard Hautes Plaines",
-        "Brione: Sector Kubalik"
+        "Rocklands: Sector Plateau",
+        "Rocklands: Sector 8 Rain Day",
+        "Cresciano: Sector Danilo"
     ],
     "zones": [
+        "Rocklands: Sector Plateau",
+        "Rocklands: Sector 8 Rain Day",
+        "Cresciano: Sector Danilo",
         "Fontainebleau: Sector Marlanval",
         "Fontainebleau: Sector Franchard Hautes Plaines",
         "Brione: Sector Kubalik",
