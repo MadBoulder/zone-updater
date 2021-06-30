@@ -1,9 +1,12 @@
 {
-    "date": "29-06-2021",
-    "previous_update": "28-06-2021",
-    "zones_total": 480,
-    "new_zones": [],
+    "date": "30-06-2021",
+    "previous_update": "29-06-2021",
+    "zones_total": 481,
+    "new_zones": [
+        "Corme: Sector Carabandufe"
+    ],
     "zones": [
+        "Corme: Sector Carabandufe",
         "Rocklands: Sector Plateau",
         "Rocklands: Sector 8 Rain Day",
         "Cresciano: Sector Danilo",
