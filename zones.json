@@ -1,11 +1,12 @@
 {
-    "date": "30-06-2021",
-    "previous_update": "29-06-2021",
-    "zones_total": 481,
+    "date": "01-07-2021",
+    "previous_update": "30-06-2021",
+    "zones_total": 482,
     "new_zones": [
-        "Corme: Sector Carabandufe"
+        "Corme: Sector Güllich"
     ],
     "zones": [
+        "Corme: Sector Güllich",
         "Corme: Sector Carabandufe",
         "Rocklands: Sector Plateau",
         "Rocklands: Sector 8 Rain Day",
