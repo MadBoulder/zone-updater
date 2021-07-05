@@ -1,9 +1,12 @@
 {
-    "date": "03-07-2021",
-    "previous_update": "02-07-2021",
-    "zones_total": 482,
-    "new_zones": [],
+    "date": "05-07-2021",
+    "previous_update": "03-07-2021",
+    "zones_total": 483,
+    "new_zones": [
+        "Pena Corneira: Sector Final"
+    ],
     "zones": [
+        "Pena Corneira: Sector Final",
         "Corme: Sector Güllich",
         "Corme: Sector Carabandufe",
         "Rocklands: Sector Plateau",
