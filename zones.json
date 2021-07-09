@@ -1,9 +1,12 @@
 {
-    "date": "08-07-2021",
-    "previous_update": "07-07-2021",
-    "zones_total": 483,
-    "new_zones": [],
+    "date": "09-07-2021",
+    "previous_update": "08-07-2021",
+    "zones_total": 484,
+    "new_zones": [
+        "Dorenaz"
+    ],
     "zones": [
+        "Dorenaz",
         "Pena Corneira: Sector Final",
         "Corme: Sector Güllich",
         "Corme: Sector Carabandufe",
