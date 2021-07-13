@@ -1,9 +1,12 @@
 {
-    "date": "12-07-2021",
-    "previous_update": "11-07-2021",
-    "zones_total": 484,
-    "new_zones": [],
+    "date": "13-07-2021",
+    "previous_update": "12-07-2021",
+    "zones_total": 485,
+    "new_zones": [
+        "Cavallers: Sector Les Murgues"
+    ],
     "zones": [
+        "Cavallers: Sector Les Murgues",
         "Dorenaz",
         "Pena Corneira: Sector Final",
         "Corme: Sector Güllich",
