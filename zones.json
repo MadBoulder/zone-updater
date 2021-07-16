@@ -1,11 +1,14 @@
 {
-    "date": "15-07-2021",
-    "previous_update": "14-07-2021",
-    "zones_total": 486,
+    "date": "16-07-2021",
+    "previous_update": "15-07-2021",
+    "zones_total": 488,
     "new_zones": [
-        "Xistral: Sector Moa"
+        "Rocklands: Sector Fortress",
+        "Rocklands: Sector Campground"
     ],
     "zones": [
+        "Rocklands: Sector Fortress",
+        "Rocklands: Sector Campground",
         "Xistral: Sector Moa",
         "Cavallers: Sector Les Murgues",
         "Dorenaz",
