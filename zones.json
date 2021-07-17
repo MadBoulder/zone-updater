@@ -1,11 +1,8 @@
 {
-    "date": "16-07-2021",
-    "previous_update": "15-07-2021",
+    "date": "17-07-2021",
+    "previous_update": "16-07-2021",
     "zones_total": 488,
-    "new_zones": [
-        "Rocklands: Sector Fortress",
-        "Rocklands: Sector Campground"
-    ],
+    "new_zones": [],
     "zones": [
         "Rocklands: Sector Fortress",
         "Rocklands: Sector Campground",
