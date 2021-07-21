@@ -1,9 +1,12 @@
 {
-    "date": "20-07-2021",
-    "previous_update": "19-07-2021",
-    "zones_total": 488,
-    "new_zones": [],
+    "date": "21-07-2021",
+    "previous_update": "20-07-2021",
+    "zones_total": 489,
+    "new_zones": [
+        "Cavallers: Sector La Llosa"
+    ],
     "zones": [
+        "Cavallers: Sector La Llosa",
         "Rocklands: Sector Fortress",
         "Rocklands: Sector Campground",
         "Xistral: Sector Moa",
