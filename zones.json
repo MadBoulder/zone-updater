@@ -1,9 +1,12 @@
 {
-    "date": "22-07-2021",
-    "previous_update": "21-07-2021",
-    "zones_total": 489,
-    "new_zones": [],
+    "date": "23-07-2021",
+    "previous_update": "22-07-2021",
+    "zones_total": 490,
+    "new_zones": [
+        "Monte Xalo"
+    ],
     "zones": [
+        "Monte Xalo",
         "Cavallers: Sector La Llosa",
         "Rocklands: Sector Fortress",
         "Rocklands: Sector Campground",
