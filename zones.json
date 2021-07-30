@@ -1,9 +1,14 @@
 {
-    "date": "29-07-2021",
-    "previous_update": "28-07-2021",
-    "zones_total": 490,
-    "new_zones": [],
+    "date": "30-07-2021",
+    "previous_update": "29-07-2021",
+    "zones_total": 492,
+    "new_zones": [
+        "Rocklands: Sector Roadcrew",
+        "Cavallers: Sector La Ferradura"
+    ],
     "zones": [
+        "Rocklands: Sector Roadcrew",
+        "Cavallers: Sector La Ferradura",
         "Monte Xalo",
         "Cavallers: Sector La Llosa",
         "Rocklands: Sector Fortress",
