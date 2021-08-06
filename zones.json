@@ -1,9 +1,12 @@
 {
-    "date": "05-08-2021",
-    "previous_update": "04-08-2021",
-    "zones_total": 492,
-    "new_zones": [],
+    "date": "06-08-2021",
+    "previous_update": "05-08-2021",
+    "zones_total": 493,
+    "new_zones": [
+        "Columbia"
+    ],
     "zones": [
+        "Columbia",
         "Rocklands: Sector Roadcrew",
         "Cavallers: Sector La Ferradura",
         "Monte Xalo",
