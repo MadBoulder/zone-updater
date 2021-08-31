@@ -1,14 +1,8 @@
 {
-    "date": "30-08-2021",
-    "previous_update": "12-08-2021",
+    "date": "31-08-2021",
+    "previous_update": "30-08-2021",
     "zones_total": 499,
-    "new_zones": [
-        "Treasury",
-        "Fontainebleau: Sector Orsay",
-        "Cavallers: Sector Corbar",
-        "Rocklands: Sector Tea Garden",
-        "Chiareggio"
-    ],
+    "new_zones": [],
     "zones": [
         "Treasury",
         "Fontainebleau: Sector Orsay",
