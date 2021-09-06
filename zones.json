@@ -1,9 +1,12 @@
 {
-    "date": "01-09-2021",
-    "previous_update": "31-08-2021",
-    "zones_total": 499,
-    "new_zones": [],
+    "date": "06-09-2021",
+    "previous_update": "01-09-2021",
+    "zones_total": 500,
+    "new_zones": [
+        "Santa Barbara"
+    ],
     "zones": [
+        "Santa Barbara",
         "Treasury",
         "Fontainebleau: Sector Orsay",
         "Cavallers: Sector Corbar",
