@@ -1,9 +1,12 @@
 {
-    "date": "10-09-2021",
-    "previous_update": "09-09-2021",
-    "zones_total": 500,
-    "new_zones": [],
+    "date": "11-09-2021",
+    "previous_update": "10-09-2021",
+    "zones_total": 501,
+    "new_zones": [
+        "Cavallers: Sector La Residència"
+    ],
     "zones": [
+        "Cavallers: Sector La Residència",
         "Santa Barbara",
         "Treasury",
         "Fontainebleau: Sector Orsay",
