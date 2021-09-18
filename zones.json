@@ -1,9 +1,14 @@
 {
-    "date": "17-09-2021",
-    "previous_update": "16-09-2021",
-    "zones_total": 501,
-    "new_zones": [],
+    "date": "18-09-2021",
+    "previous_update": "17-09-2021",
+    "zones_total": 503,
+    "new_zones": [
+        "Corme: Sector Percebellosa",
+        "Corme: Sector Desplome Brutal"
+    ],
     "zones": [
+        "Corme: Sector Percebellosa",
+        "Corme: Sector Desplome Brutal",
         "Cavallers: Sector La Residència",
         "Santa Barbara",
         "Treasury",
