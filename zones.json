@@ -1,12 +1,14 @@
 {
-    "date": "18-09-2021",
-    "previous_update": "17-09-2021",
-    "zones_total": 503,
+    "date": "19-09-2021",
+    "previous_update": "18-09-2021",
+    "zones_total": 505,
     "new_zones": [
-        "Corme: Sector Percebellosa",
-        "Corme: Sector Desplome Brutal"
+        "Rocklands: Sector Arch Valley",
+        "Spiluck"
     ],
     "zones": [
+        "Rocklands: Sector Arch Valley",
+        "Spiluck",
         "Corme: Sector Percebellosa",
         "Corme: Sector Desplome Brutal",
         "Cavallers: Sector La Residència",
