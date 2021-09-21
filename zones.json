@@ -1,9 +1,12 @@
 {
-    "date": "20-09-2021",
-    "previous_update": "19-09-2021",
-    "zones_total": 505,
-    "new_zones": [],
+    "date": "21-09-2021",
+    "previous_update": "20-09-2021",
+    "zones_total": 506,
+    "new_zones": [
+        "Sonoma County"
+    ],
     "zones": [
+        "Sonoma County",
         "Rocklands: Sector Arch Valley",
         "Spiluck",
         "Corme: Sector Percebellosa",
