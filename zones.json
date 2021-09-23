@@ -1,11 +1,12 @@
 {
-    "date": "22-09-2021",
-    "previous_update": "21-09-2021",
-    "zones_total": 507,
+    "date": "23-09-2021",
+    "previous_update": "22-09-2021",
+    "zones_total": 508,
     "new_zones": [
-        "Chironico: Sector Border line"
+        "La Balmaz"
     ],
     "zones": [
+        "La Balmaz",
         "Chironico: Sector Border line",
         "Sonoma County",
         "Rocklands: Sector Arch Valley",
