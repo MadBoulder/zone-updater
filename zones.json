@@ -1,11 +1,16 @@
 {
-    "date": "23-09-2021",
-    "previous_update": "22-09-2021",
-    "zones_total": 508,
+    "date": "24-09-2021",
+    "previous_update": "23-09-2021",
+    "zones_total": 511,
     "new_zones": [
-        "La Balmaz"
+        "Bowden Doors",
+        "Lake Tahoe: Sector Beavers",
+        "Tuolumne Meadows"
     ],
     "zones": [
+        "Bowden Doors",
+        "Lake Tahoe: Sector Beavers",
+        "Tuolumne Meadows",
         "La Balmaz",
         "Chironico: Sector Border line",
         "Sonoma County",
