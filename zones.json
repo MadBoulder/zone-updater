@@ -1,12 +1,8 @@
 {
-    "date": "24-09-2021",
-    "previous_update": "23-09-2021",
+    "date": "25-09-2021",
+    "previous_update": "24-09-2021",
     "zones_total": 511,
-    "new_zones": [
-        "Bowden Doors",
-        "Lake Tahoe: Sector Beavers",
-        "Tuolumne Meadows"
-    ],
+    "new_zones": [],
     "zones": [
         "Bowden Doors",
         "Lake Tahoe: Sector Beavers",
