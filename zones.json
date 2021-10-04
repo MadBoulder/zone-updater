@@ -1,9 +1,12 @@
 {
-    "date": "02-10-2021",
-    "previous_update": "01-10-2021",
-    "zones_total": 511,
-    "new_zones": [],
+    "date": "04-10-2021",
+    "previous_update": "02-10-2021",
+    "zones_total": 512,
+    "new_zones": [
+        "Central Park"
+    ],
     "zones": [
+        "Central Park",
         "Bowden Doors",
         "Lake Tahoe: Sector Beavers",
         "Tuolumne Meadows",
