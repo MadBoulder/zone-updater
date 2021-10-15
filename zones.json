@@ -1,9 +1,12 @@
 {
-    "date": "14-10-2021",
-    "previous_update": "13-10-2021",
-    "zones_total": 512,
-    "new_zones": [],
+    "date": "15-10-2021",
+    "previous_update": "14-10-2021",
+    "zones_total": 513,
+    "new_zones": [
+        "Alta Segarra"
+    ],
     "zones": [
+        "Alta Segarra",
         "Central Park",
         "Bowden Doors",
         "Lake Tahoe: Sector Beavers",
