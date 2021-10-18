@@ -1,10 +1,8 @@
 {
-    "date": "15-10-2021",
-    "previous_update": "14-10-2021",
+    "date": "18-10-2021",
+    "previous_update": "15-10-2021",
     "zones_total": 513,
-    "new_zones": [
-        "Alta Segarra"
-    ],
+    "new_zones": [],
     "zones": [
         "Alta Segarra",
         "Central Park",
