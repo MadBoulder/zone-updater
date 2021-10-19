@@ -1,9 +1,12 @@
 {
-    "date": "18-10-2021",
-    "previous_update": "15-10-2021",
-    "zones_total": 513,
-    "new_zones": [],
+    "date": "19-10-2021",
+    "previous_update": "18-10-2021",
+    "zones_total": 514,
+    "new_zones": [
+        "Bezas: Sector El Valle"
+    ],
     "zones": [
+        "Bezas: Sector El Valle",
         "Alta Segarra",
         "Central Park",
         "Bowden Doors",
