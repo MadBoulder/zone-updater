@@ -1,9 +1,14 @@
 {
-    "date": "29-10-2021",
-    "previous_update": "28-10-2021",
-    "zones_total": 515,
-    "new_zones": [],
+    "date": "30-10-2021",
+    "previous_update": "29-10-2021",
+    "zones_total": 517,
+    "new_zones": [
+        "Temporal Boulders",
+        "Horse Pens 40"
+    ],
     "zones": [
+        "Temporal Boulders",
+        "Horse Pens 40",
         "Stone Fort, LRC/Little Rock City",
         "Bezas: Sector El Valle",
         "Alta Segarra",
