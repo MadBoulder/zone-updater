@@ -1,9 +1,14 @@
 {
-    "date": "31-10-2021",
-    "previous_update": "30-10-2021",
-    "zones_total": 517,
-    "new_zones": [],
+    "date": "01-11-2021",
+    "previous_update": "31-10-2021",
+    "zones_total": 519,
+    "new_zones": [
+        "Mengusovská dolina",
+        "Marin Headlands"
+    ],
     "zones": [
+        "Mengusovská dolina",
+        "Marin Headlands",
         "Temporal Boulders",
         "Horse Pens 40",
         "Stone Fort, LRC/Little Rock City",
