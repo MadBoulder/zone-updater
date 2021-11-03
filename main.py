@@ -6,6 +6,7 @@ from datetime import date
 # TODO: 
 # - Change items in zones.json to be a dict {'zoneName': 'videoCount', ...}
 # - Total number of zones is stored in zones.json -> zones_total, no need to do len(...)
+# - Add a new section that lists the zones which its number of videos has changed 
 
 MAX_ITEMS_API_QUERY = 50
 Y_CRED = "AIzaSyAbPC02W3k-MFU7TmvYCSXfUPfH10jNB7g"
