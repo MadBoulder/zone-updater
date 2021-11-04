@@ -4,8 +4,7 @@ import urllib.request
 from datetime import date
 
 # TODO: 
-# - Total number of zones is stored in zones.json -> zones_total, no need to do len(...)
-# - Add a new section that lists the zones which its number of videos has changed 
+# - Add a new section that lists the zones which its number of videos has changed (increased)
 
 MAX_ITEMS_API_QUERY = 50
 Y_CRED = "AIzaSyAbPC02W3k-MFU7TmvYCSXfUPfH10jNB7g"
@@ -80,17 +79,29 @@ def update_zones():
     if current_date == current_data['date']:
         previous_update = current_data['previous_update']
 
+    increased_videos = { key:val for key, val in current_zones.items() if has_number_of_videos_changed(key, val, current_zones) }
+
     updated_data = {
         'date': current_date,
         'previous_update': previous_update,
         'zones_total': len(current_zones),
         'new_zones': new_zones,
+        'increased_videos': increased_videos,
         'zones': current_zones
         # 'not_included': not_included
     }
     with open('zones.json', 'w', encoding='utf-8') as f:
         json.dump(updated_data, f, indent=4, ensure_ascii=False)
     return new_zones
+
+def has_number_of_videos_changed(zone_title, video_count, current_zones):
+    """
+    Returns True if the number of videos in the playlist 
+    has increased since the last update
+    """
+    if current_zones.get(zone_title, -1) > video_count:
+        return True
+    return False
 
 def get_all_included_zones_and_sectors(rel_path='../BetaLibrary/'):
     """
