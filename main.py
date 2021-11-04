@@ -4,7 +4,6 @@ import urllib.request
 from datetime import date
 
 # TODO: 
-# - Change items in zones.json to be a dict {'zoneName': 'videoCount', ...}
 # - Total number of zones is stored in zones.json -> zones_total, no need to do len(...)
 # - Add a new section that lists the zones which its number of videos has changed 
 
@@ -13,6 +12,7 @@ Y_CRED = "AIzaSyAbPC02W3k-MFU7TmvYCSXfUPfH10jNB7g"
 SNIPPET = 'snippet'
 CONTENT_DETAILS = 'contentDetails'
 API_QUERY = 'https://www.googleapis.com/youtube/v3/playlists?part={}&maxResults={}&channelId={}&key={}&pageToken={}'
+PLAYLIST_API_QUERY = 'https://www.googleapis.com/youtube/v3/playlists?part={}&key={}&id={}'
 
 def get_playlists(channel_id="UCX9ok0rHnvnENLSK7jdnXxA", num_playlists=MAX_ITEMS_API_QUERY):
     """
@@ -28,8 +28,7 @@ def get_playlists(channel_id="UCX9ok0rHnvnENLSK7jdnXxA", num_playlists=MAX_ITEMS
     total = data['pageInfo']['totalResults']
     zones = data['items']
 
-    # Get the details of interest of all new playlists: (current - stored) = (total - len(zones))
-    while data['zones_total'] < total:
+    while len(zones) < total:
     # while len(zones) < total:
         next_page_token = data['nextPageToken']
         query_url = API_QUERY.format(
@@ -40,11 +39,23 @@ def get_playlists(channel_id="UCX9ok0rHnvnENLSK7jdnXxA", num_playlists=MAX_ITEMS
              next_page_token
         )
         data = json.load(urllib.request.urlopen(query_url))
-        print(data)
         new_zones = data['items']
         zones += new_zones
-        
-    return { i[SNIPPET]['title']:i[CONTENT_DETAILS]['itemCount'] for i in zones }
+    
+    for zone in zones:
+        if not zone.get(CONTENT_DETAILS, {}).get('itemCount', ''):
+            # Make a specific API query for this list
+            query_url = PLAYLIST_API_QUERY.format(
+                ','.join([SNIPPET, CONTENT_DETAILS]),
+                api_key,
+                zone.get('id')
+            )
+            zone_data =  json.load(urllib.request.urlopen(query_url))
+            zone[CONTENT_DETAILS] = zone_data['items'][0][CONTENT_DETAILS]
+
+    return { 
+        i.get(SNIPPET, {}).get('title', 'Unknown'): i.get(CONTENT_DETAILS, {}).get('itemCount', -1) for i in zones 
+        }
     
 def update_zones():
     """
@@ -59,7 +70,7 @@ def update_zones():
     # get new zones and sectors
     last_zone_update = current_data['zones']
     current_zones = get_playlists()
-    new_zones = {key:val for key, val in current_zones.items() if key not in last_zone_update.keys()}
+    new_zones = { key:val for key, val in current_zones.items() if key not in last_zone_update.keys() }
     # new_zones = [zone for zone in current_zones if zone not in last_zone_update]
     # check which ones are not included yet
     # not_included = list_not_added(current_zones, get_all_included_zones_and_sectors())
@@ -110,4 +121,4 @@ if __name__ == "__main__":
     new_zones = update_zones()
     print("{} new zones".format(len(new_zones)))
     if new_zones:
-        print(new_zones)
+        print([key for key,val in new_zones.items()])
