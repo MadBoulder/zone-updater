@@ -90,12 +90,21 @@ def update_zones():
         'zones_total': len(current_zones),
         'new_zones': new_zones,
         'increased_videos': increased_videos,
+        'zones_that_should_be_listed': zones_to_be_listed(current_zones),
         'zones': current_zones
         # 'not_included': not_included
     }
     with open('zones.json', 'w', encoding='utf-8') as f:
         json.dump(updated_data, f, indent=4, ensure_ascii=False)
     return new_zones
+
+
+def zones_to_be_listed(current_zones, threshold=6):
+    return {
+        key: val
+        for key, val in current_zones.items()
+        if val >= threshold and 'sector' not in key.lower()
+    }
 
 
 def has_number_of_videos_changed(zone_title, video_count, current_zones):
