@@ -1,11 +1,14 @@
 {
-    "date": "10-11-2021",
-    "previous_update": "09-11-2021",
-    "zones_total": 524,
-    "new_zones": {},
+    "date": "11-11-2021",
+    "previous_update": "10-11-2021",
+    "zones_total": 526,
+    "new_zones": {
+        "Rocktown": 4,
+        "Purple Stones": 3
+    },
     "increased_videos": {},
     "zones_that_should_be_listed": {
-        "Stone Fort, LRC/Little Rock City": 9,
+        "Stone Fort, LRC/Little Rock City": 12,
         "Tuolumne Meadows": 8,
         "El Bierzo": 8,
         "Corme": 18,
@@ -96,6 +99,8 @@
         "Can Bruguera": 238
     },
     "zones": {
+        "Rocktown": 4,
+        "Purple Stones": 3,
         "Val Ellero": 1,
         "Meschia Nuova": 1,
         "Bor": 1,
@@ -105,7 +110,7 @@
         "Marin Headlands": 1,
         "Temporal Boulders": 1,
         "Horse Pens 40": 3,
-        "Stone Fort, LRC/Little Rock City": 9,
+        "Stone Fort, LRC/Little Rock City": 12,
         "Bezas: Sector El Valle": 7,
         "Alta Segarra": 1,
         "Central Park": 1,
