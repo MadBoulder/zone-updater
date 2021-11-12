@@ -1,11 +1,8 @@
 {
-    "date": "11-11-2021",
-    "previous_update": "10-11-2021",
+    "date": "12-11-2021",
+    "previous_update": "11-11-2021",
     "zones_total": 526,
-    "new_zones": {
-        "Rocktown": 4,
-        "Purple Stones": 3
-    },
+    "new_zones": {},
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Stone Fort, LRC/Little Rock City": 12,
