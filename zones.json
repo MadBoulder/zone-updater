@@ -1,10 +1,8 @@
 {
-    "date": "22-11-2021",
-    "previous_update": "21-11-2021",
+    "date": "23-11-2021",
+    "previous_update": "22-11-2021",
     "zones_total": 527,
-    "new_zones": {
-        "Knonauer Stei": 3
-    },
+    "new_zones": {},
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Stone Fort, LRC/Little Rock City": 12,
@@ -86,7 +84,7 @@
         "Can Camps": 81,
         "La Comarca": 31,
         "Cypress Mountain": 19,
-        "Magic Wood": 149,
+        "Magic Wood": 151,
         "Cavallers": 219,
         "Can Boquet": 155,
         "Albarracín": 447,
@@ -568,8 +566,8 @@
         "Val Daone": 18,
         "Magic Wood: Sector Bach": 26,
         "Magic Wood: Sector Beach": 19,
-        "Magic Wood: Sector Mitte": 36,
-        "Magic Wood: Sector Kamel": 26,
+        "Magic Wood: Sector Mitte": 37,
+        "Magic Wood: Sector Kamel": 27,
         "Salvanebleau: Sector Clàssic": 36,
         "Salvanebleau: Sector Dipòsit": 17,
         "Cavallers: Sector El Prat": 43,
@@ -607,7 +605,7 @@
         "Can Camps": 81,
         "La Comarca": 31,
         "Cypress Mountain": 19,
-        "Magic Wood": 149,
+        "Magic Wood": 151,
         "SFU boulder": 4,
         "Cavallers": 219,
         "Arenys de Munt": 5,
