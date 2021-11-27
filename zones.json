@@ -1,9 +1,9 @@
 {
-    "date": "26-11-2021",
-    "previous_update": "25-11-2021",
-    "zones_total": 531,
+    "date": "27-11-2021",
+    "previous_update": "26-11-2021",
+    "zones_total": 532,
     "new_zones": {
-        "Brione: Sector Ballerman": 1
+        "El Cogul: Sector Abellot Negre": 2
     },
     "increased_videos": {},
     "zones_that_should_be_listed": {
@@ -68,7 +68,7 @@
         "La Riba": 23,
         "Bezas": 59,
         "Yosemite Valley": 37,
-        "El Cogul": 61,
+        "El Cogul": 63,
         "Ailefroide": 9,
         "Fussimanya": 13,
         "Bagni di Masino": 38,
@@ -98,6 +98,7 @@
         "Can Bruguera": 238
     },
     "zones": {
+        "El Cogul: Sector Abellot Negre": 2,
         "Brione: Sector Ballerman": 1,
         "Val Masino: Sector Campo sportivo": 2,
         "Wassen: Sector Chaos": 1,
@@ -551,7 +552,7 @@
         "Targasonne: Sector 3 grasses": 11,
         "Targasonne: Sector Baleine": 15,
         "Targasonne: Sector Dolmens": 17,
-        "El Cogul": 61,
+        "El Cogul": 63,
         "Ailefroide: Sector Surprise du Chef": 3,
         "Ailefroide": 9,
         "Fussimanya": 13,
