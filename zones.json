@@ -1,9 +1,9 @@
 {
-    "date": "02-12-2021",
-    "previous_update": "01-12-2021",
-    "zones_total": 535,
+    "date": "03-12-2021",
+    "previous_update": "02-12-2021",
+    "zones_total": 536,
     "new_zones": {
-        "Castelldans": 1
+        "El Cogul: Sector Albagés - Els Sostres": 2
     },
     "increased_videos": {},
     "zones_that_should_be_listed": {
@@ -98,6 +98,7 @@
         "Can Bruguera": 238
     },
     "zones": {
+        "El Cogul: Sector Albagés - Els Sostres": 2,
         "Castelldans": 1,
         "Interprete": 1,
         "Kings Canyon": 5,
@@ -359,7 +360,7 @@
         "Mont-roig del Camp": 26,
         "Santa Gadea": 1,
         "El Cogul: Sector Els Camps": 9,
-        "El Cogul: Sector El Turonet": 10,
+        "El Cogul: Sector El Turonet": 8,
         "El Cogul: Sector Universitat": 14,
         "El Cogul: Sector Lo Pallars": 7,
         "Los Barruecos": 2,
