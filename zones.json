@@ -1,8 +1,13 @@
 {
-    "date": "30-12-2021",
-    "previous_update": "29-12-2021",
-    "zones_total": 543,
-    "new_zones": {},
+    "date": "31-12-2021",
+    "previous_update": "30-12-2021",
+    "zones_total": 547,
+    "new_zones": {
+        "Maltatal": 1,
+        "Orhem": 1,
+        "Västervik": 2,
+        "Skuru": 1
+    },
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Kings Canyon": 8,
@@ -101,6 +106,10 @@
         "Can Bruguera": 245
     },
     "zones": {
+        "Maltatal": 1,
+        "Orhem": 1,
+        "Västervik": 2,
+        "Skuru": 1,
         "Tormos": 1,
         "Dayton Pocket": 2,
         "El Cogul: Sector Albagés - 1890": 3,
@@ -353,7 +362,7 @@
         "Chaos Canyon": 4,
         "Zarzalejo": 18,
         "Rocklands: Sector The Sassies": 7,
-        "Cape Town": 1,
+        "Cape Town": 2,
         "Lake Tahoe": 48,
         "Belmez": 13,
         "Bezas: Sector El Atajo": 5,
