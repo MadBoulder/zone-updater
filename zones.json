@@ -1,11 +1,8 @@
 {
-    "date": "11-01-2022",
-    "previous_update": "10-01-2022",
+    "date": "12-01-2022",
+    "previous_update": "11-01-2022",
     "zones_total": 555,
-    "new_zones": {
-        "Chironico: Sector Altirolo chiesa": 1,
-        "Brione: Sector Chiossetto": 1
-    },
+    "new_zones": {},
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Kings Canyon": 12,
@@ -85,7 +82,7 @@
         "Cypress Mountain: Brothers Creek Erratic": 14,
         "Fontainebleau: Cul de Chien": 11,
         "Fontainebleau": 224,
-        "La Jonquera": 58,
+        "La Jonquera": 59,
         "Salvanebleau": 88,
         "Can Bartomeu": 29,
         "Chironico": 135,
@@ -99,7 +96,7 @@
         "Albarracín": 481,
         "Squamish": 10,
         "Laurenzoboulderfels": 13,
-        "Savassona": 133,
+        "Savassona": 134,
         "Santa Blocona": 11,
         "Targasonne": 254,
         "Can Bruguera": 246
@@ -263,7 +260,7 @@
         "Blattiswald": 1,
         "Malibu Tunnel Boulders": 10,
         "Chironico: Sector Serre moi fort": 1,
-        "La Jonquera: Sector La Joieria": 24,
+        "La Jonquera: Sector La Joieria": 25,
         "Carabaña": 2,
         "La Pedriza: Sector La Cuesta": 1,
         "Can Boquet: Sector La Perla": 2,
@@ -629,9 +626,9 @@
         "Fontainebleau: Sector 95.2": 25,
         "Fontainebleau": 224,
         "Puelles": 3,
-        "La Jonquera": 58,
+        "La Jonquera": 59,
         "Montgai": 3,
-        "Savassona: Sector del Bosc": 66,
+        "Savassona: Sector del Bosc": 67,
         "Savassona: Sector del Dau": 50,
         "Salvanebleau": 88,
         "Sant Elm": 1,
@@ -656,7 +653,7 @@
         "Squamish": 10,
         "Laurenzoboulderfels": 13,
         "Can Bruguera: Sector Durkuek": 68,
-        "Savassona": 133,
+        "Savassona": 134,
         "Santa Blocona": 11,
         "Targasonne": 254,
         "Can Bruguera": 246
