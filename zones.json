@@ -1,13 +1,8 @@
 {
-    "date": "16-01-2022",
-    "previous_update": "14-01-2022",
+    "date": "17-01-2022",
+    "previous_update": "16-01-2022",
     "zones_total": 559,
-    "new_zones": {
-        "Lake Tahoe: Sector Erratica": 3,
-        "Putah Creek": 2,
-        "La Pedriza: Sector El Indio": 1,
-        "La Pedriza: Sector Dehesa Central": 1
-    },
+    "new_zones": {},
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Kings Canyon": 13,
