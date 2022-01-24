@@ -1,17 +1,15 @@
 {
-    "date": "23-01-2022",
-    "previous_update": "22-01-2022",
+    "date": "24-01-2022",
+    "previous_update": "23-01-2022",
     "zones_total": 563,
-    "new_zones": {
-        "Albarracín: Sector Prado del Navazo Oeste": 1
-    },
+    "new_zones": {},
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Kings Canyon": 13,
         "Rocktown": 10,
         "Stone Fort, LRC/Little Rock City": 19,
         "Tuolumne Meadows": 8,
-        "Sonoma County": 8,
+        "Sonoma County": 9,
         "Santa Barbara": 7,
         "El Bierzo": 8,
         "Corme": 18,
@@ -163,7 +161,7 @@
         "Tuolumne Meadows": 8,
         "La Balmaz": 1,
         "Chironico: Sector Border line": 3,
-        "Sonoma County": 8,
+        "Sonoma County": 9,
         "Rocklands: Sector Arch Valley": 3,
         "Spiluck": 1,
         "Corme: Sector Percebellosa": 3,
