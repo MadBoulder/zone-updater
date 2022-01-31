@@ -1,11 +1,8 @@
 {
-    "date": "30-01-2022",
-    "previous_update": "29-01-2022",
+    "date": "31-01-2022",
+    "previous_update": "30-01-2022",
     "zones_total": 571,
-    "new_zones": {
-        "Fort Ross": 2,
-        "Cumberland": 2
-    },
+    "new_zones": {},
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Kings Canyon": 13,
