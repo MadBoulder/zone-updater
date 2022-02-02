@@ -1,6 +1,6 @@
 {
-    "date": "01-02-2022",
-    "previous_update": "31-01-2022",
+    "date": "02-02-2022",
+    "previous_update": "01-02-2022",
     "zones_total": 571,
     "new_zones": {},
     "increased_videos": {},
@@ -98,7 +98,7 @@
         "Laurenzoboulderfels": 13,
         "Savassona": 145,
         "Santa Blocona": 11,
-        "Targasonne": 259,
+        "Targasonne": 260,
         "Can Bruguera": 249
     },
     "zones": {
@@ -624,7 +624,7 @@
         "Cavallers: Sector Sec Xop": 4,
         "Targasonne: Sector Dieux Païens": 38,
         "Targasonne: Sector Themis": 14,
-        "Targasonne: Sector Taz": 42,
+        "Targasonne: Sector Taz": 43,
         "Targasonne: Sector Carrière": 23,
         "Savassona: Sector Perdut": 22,
         "Can Boquet: Sector Nou": 35,
@@ -671,7 +671,7 @@
         "Can Bruguera: Sector Durkuek": 69,
         "Savassona": 145,
         "Santa Blocona": 11,
-        "Targasonne": 259,
+        "Targasonne": 260,
         "Can Bruguera": 249
     }
 }
