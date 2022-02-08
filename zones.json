@@ -1,6 +1,6 @@
 {
-    "date": "07-02-2022",
-    "previous_update": "06-02-2022",
+    "date": "08-02-2022",
+    "previous_update": "07-02-2022",
     "zones_total": 571,
     "new_zones": {},
     "increased_videos": {},
@@ -83,7 +83,7 @@
         "Val Daone": 18,
         "Cypress Mountain: Brothers Creek Erratic": 14,
         "Fontainebleau: Cul de Chien": 11,
-        "Fontainebleau": 225,
+        "Fontainebleau": 226,
         "La Jonquera": 67,
         "Salvanebleau": 101,
         "Can Bartomeu": 29,
@@ -95,13 +95,13 @@
         "Magic Wood": 175,
         "Cavallers": 219,
         "Can Boquet": 157,
-        "Albarracín": 509,
+        "Albarracín": 511,
         "Squamish": 10,
         "Laurenzoboulderfels": 13,
         "Savassona": 146,
         "Santa Blocona": 11,
         "Targasonne": 260,
-        "Can Bruguera": 249
+        "Can Bruguera": 250
     },
     "zones": {
         "Fort Ross": 2,
@@ -469,7 +469,7 @@
         "Hoyamoros": 30,
         "Val di Mello: Sector Sass de la Pulenta": 1,
         "Val Bavona": 7,
-        "Albarracín: Sector La fuente": 76,
+        "Albarracín: Sector La fuente": 77,
         "Val di Mello: Sector Melloblocco": 4,
         "Albarracín: Sector La Mezquita": 30,
         "Rocklands": 94,
@@ -483,7 +483,7 @@
         "Val di Mello: Sector Il francese": 3,
         "Val di Mello": 12,
         "Murgtal": 9,
-        "Albarracín: Sector Prado del Navazo": 14,
+        "Albarracín: Sector Prado del Navazo": 15,
         "Bergkristall": 1,
         "Bagni di Masino: Sector I tornanti": 6,
         "Val Masino: Sector Campeggio": 13,
@@ -642,7 +642,7 @@
         "Fontainebleau: Sector Franchard Isatis": 20,
         "Fontainebleau: Sector Elephant": 13,
         "Fontainebleau: Sector 95.2": 25,
-        "Fontainebleau": 225,
+        "Fontainebleau": 226,
         "Puelles": 3,
         "La Jonquera": 67,
         "Montgai": 3,
@@ -663,10 +663,10 @@
         "Arenys de Munt": 5,
         "Can Bruguera: Sector SummerHill": 13,
         "Bullenheimer Berg": 4,
-        "Can Bruguera: Sector Termita": 37,
+        "Can Bruguera: Sector Termita": 38,
         "Lighthouse Park": 2,
         "Can Boquet": 157,
-        "Albarracín": 509,
+        "Albarracín": 511,
         "Can Bruguera: Sector Cova del 8": 47,
         "Squamish": 10,
         "Laurenzoboulderfels": 13,
@@ -674,6 +674,6 @@
         "Savassona": 146,
         "Santa Blocona": 11,
         "Targasonne": 260,
-        "Can Bruguera": 249
+        "Can Bruguera": 250
     }
 }
