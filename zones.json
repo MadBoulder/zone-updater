@@ -1,8 +1,10 @@
 {
-    "date": "12-02-2022",
-    "previous_update": "11-02-2022",
+    "date": "13-02-2022",
+    "previous_update": "12-02-2022",
     "zones_total": 573,
-    "new_zones": {},
+    "new_zones": {
+        "Can Bruguera: Sector Summerhill": 13
+    },
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Kings Canyon": 13,
@@ -34,7 +36,7 @@
         "Hampi": 10,
         "RMNP": 6,
         "Zarzalejo": 18,
-        "Lake Tahoe": 53,
+        "Lake Tahoe": 54,
         "Belmez": 13,
         "Vilafamés": 6,
         "El Regalito": 8,
@@ -63,7 +65,7 @@
         "Brione": 56,
         "Xistral": 7,
         "La Roca del Vallès": 16,
-        "Alcañiz": 105,
+        "Alcañiz": 106,
         "Göschenen": 6,
         "Val Masino": 79,
         "Xixona": 9,
@@ -97,13 +99,13 @@
         "Magic Wood": 175,
         "Cavallers": 219,
         "Can Boquet": 157,
-        "Albarracín": 516,
+        "Albarracín": 518,
         "Squamish": 10,
         "Laurenzoboulderfels": 13,
         "Savassona": 153,
         "Santa Blocona": 11,
         "Targasonne": 260,
-        "Can Bruguera": 250
+        "Can Bruguera": 252
     },
     "zones": {
         "Savassona: Sector Senglar": 6,
@@ -219,7 +221,7 @@
         "El Bierzo": 8,
         "Corme": 18,
         "Trégastel": 4,
-        "Alcañiz: Sector Camineros": 2,
+        "Alcañiz: Sector Camineros": 3,
         "Rambla Perea": 2,
         "Casabermeja": 1,
         "Alcañiz: Sector La bandereta": 3,
@@ -335,7 +337,7 @@
         "Moe's Valley": 8,
         "Llíria": 2,
         "Can Bruguera: Sector Vall de Cogombres": 4,
-        "Albarracín: Sector Territorio Discovery": 4,
+        "Albarracín: Sector Territorio Discovery": 6,
         "Joshua Tree": 15,
         "Red Rocks": 32,
         "La Pedriza: Sector Mancevilla Superior": 1,
@@ -392,7 +394,7 @@
         "Zarzalejo": 18,
         "Rocklands: Sector The Sassies": 7,
         "Cape Town": 2,
-        "Lake Tahoe": 53,
+        "Lake Tahoe": 54,
         "Belmez": 13,
         "Bezas: Sector El Atajo": 6,
         "Bezas: Sector Pozo Celta": 12,
@@ -532,7 +534,7 @@
         "Chironico: Sector Les doigts verts": 3,
         "Chironico: Sector Rah Plats Plats": 10,
         "Göschenen: Sector Schöllenen": 6,
-        "Alcañiz": 105,
+        "Alcañiz": 106,
         "Göschenen": 6,
         "Val Masino": 79,
         "Chironico: Sector La soucoupe": 3,
@@ -665,12 +667,12 @@
         "SFU boulder": 4,
         "Cavallers": 219,
         "Arenys de Munt": 5,
-        "Can Bruguera: Sector SummerHill": 13,
+        "Can Bruguera: Sector Summerhill": 13,
         "Bullenheimer Berg": 4,
         "Can Bruguera: Sector Termita": 38,
         "Lighthouse Park": 2,
         "Can Boquet": 157,
-        "Albarracín": 516,
+        "Albarracín": 518,
         "Can Bruguera: Sector Cova del 8": 47,
         "Squamish": 10,
         "Laurenzoboulderfels": 13,
@@ -678,6 +680,6 @@
         "Savassona": 153,
         "Santa Blocona": 11,
         "Targasonne": 260,
-        "Can Bruguera": 250
+        "Can Bruguera": 252
     }
 }
