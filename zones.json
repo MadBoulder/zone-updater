@@ -1,10 +1,8 @@
 {
-    "date": "13-02-2022",
-    "previous_update": "12-02-2022",
+    "date": "14-02-2022",
+    "previous_update": "13-02-2022",
     "zones_total": 573,
-    "new_zones": {
-        "Can Bruguera: Sector Summerhill": 13
-    },
+    "new_zones": {},
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Kings Canyon": 13,
@@ -64,7 +62,7 @@
         "Mens": 10,
         "Brione": 56,
         "Xistral": 7,
-        "La Roca del Vallès": 16,
+        "La Roca del Vallès": 21,
         "Alcañiz": 106,
         "Göschenen": 6,
         "Val Masino": 79,
@@ -516,8 +514,8 @@
         "Vilajuïga": 1,
         "La Roca del Vallès: Sector Escorpí": 10,
         "La Roca del Vallès: Sector Morro de Gall": 2,
-        "La Roca del Vallès: Sector Gustasso": 2,
-        "La Roca del Vallès": 16,
+        "La Roca del Vallès: Sector Gustasso": 7,
+        "La Roca del Vallès": 21,
         "Gottardo: Sector X": 3,
         "Alcañiz: Sector San Miguel": 9,
         "Alcañiz: Sector Val de Sincesta": 4,
