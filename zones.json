@@ -1,10 +1,8 @@
 {
-    "date": "20-02-2022",
-    "previous_update": "19-02-2022",
+    "date": "21-02-2022",
+    "previous_update": "20-02-2022",
     "zones_total": 576,
-    "new_zones": {
-        "Salt Point State Park": 3
-    },
+    "new_zones": {},
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Kings Canyon": 13,
@@ -47,7 +45,7 @@
         "Rioupéroux": 6,
         "Joe's Valley": 76,
         "Pegalajar": 8,
-        "Buttermilk Country": 20,
+        "Buttermilk Country": 21,
         "Gold Bar": 22,
         "Happy Boulders": 16,
         "Sustenpass": 11,
@@ -436,7 +434,7 @@
         "Joe's Valley": 76,
         "Pegalajar": 8,
         "Magic Wood: Sector Haupt 3": 3,
-        "Buttermilk Country": 20,
+        "Buttermilk Country": 21,
         "Gold Bar": 22,
         "Happy Boulders": 16,
         "Sustenpass": 11,
