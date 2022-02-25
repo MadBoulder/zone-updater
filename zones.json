@@ -1,10 +1,8 @@
 {
-    "date": "24-02-2022",
-    "previous_update": "23-02-2022",
+    "date": "25-02-2022",
+    "previous_update": "24-02-2022",
     "zones_total": 576,
-    "new_zones": {
-        "Rocacorba": 17
-    },
+    "new_zones": {},
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Kings Canyon": 13,
@@ -106,7 +104,7 @@
         "Savassona": 158,
         "Santa Blocona": 12,
         "Targasonne": 260,
-        "Can Bruguera": 257
+        "Can Bruguera": 259
     },
     "zones": {
         "Cresciano: Sector Letamaio": 3,
@@ -677,13 +675,13 @@
         "Lighthouse Park": 2,
         "Can Boquet": 157,
         "Albarracín": 527,
-        "Can Bruguera: Sector Cova del 8": 49,
+        "Can Bruguera: Sector Cova del 8": 51,
         "Squamish": 10,
         "Laurenzoboulderfels": 13,
         "Can Bruguera: Sector Durkuek": 70,
         "Savassona": 158,
         "Santa Blocona": 12,
         "Targasonne": 260,
-        "Can Bruguera": 257
+        "Can Bruguera": 259
     }
 }
