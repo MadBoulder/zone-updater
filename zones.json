@@ -1,10 +1,8 @@
 {
-    "date": "03-03-2022",
-    "previous_update": "02-03-2022",
+    "date": "04-03-2022",
+    "previous_update": "03-03-2022",
     "zones_total": 583,
-    "new_zones": {
-        "Brione: Sector Black Pearl": 1
-    },
+    "new_zones": {},
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Kings Canyon": 14,
@@ -109,7 +107,7 @@
         "Can Bruguera": 259
     },
     "zones": {
-        "Brione: Sector Black Pearl": 1,
+        "Brione: Sector Black Pearl": 0,
         "Way Lake": 1,
         "Can Bartomeu: Sector de baix": 1,
         "Can Bartomeu: Sector Aigües": 3,
@@ -454,7 +452,7 @@
         "Chironico: Sector Anchor's punch": 3,
         "Rinbianco": 1,
         "Albarracín: Sector Corral del Santo": 6,
-        "Brione: Sector Brionesque - Amber": 4,
+        "Brione: Sector Brionesque - Amber": 5,
         "Chironico: Sector Paese": 7,
         "Cresciano: Sector Brasc vunc": 2,
         "Cavallers: Sector La Pedrera": 21,
