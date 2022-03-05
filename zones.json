@@ -1,6 +1,6 @@
 {
-    "date": "04-03-2022",
-    "previous_update": "03-03-2022",
+    "date": "05-03-2022",
+    "previous_update": "04-03-2022",
     "zones_total": 583,
     "new_zones": {},
     "increased_videos": {},
@@ -107,7 +107,7 @@
         "Can Bruguera": 259
     },
     "zones": {
-        "Brione: Sector Black Pearl": 0,
+        "Brione: Sector Black Pearl": 1,
         "Way Lake": 1,
         "Can Bartomeu: Sector de baix": 1,
         "Can Bartomeu: Sector Aigües": 3,
@@ -202,7 +202,7 @@
         "Rocklands: Sector Tea Garden": 3,
         "Chiareggio": 2,
         "Trenta": 1,
-        "Columbia": 3,
+        "Columbia": 4,
         "Rocklands: Sector Roadcrew": 8,
         "Cavallers: Sector La Ferradura": 14,
         "Monte Xalo": 5,
@@ -452,7 +452,7 @@
         "Chironico: Sector Anchor's punch": 3,
         "Rinbianco": 1,
         "Albarracín: Sector Corral del Santo": 6,
-        "Brione: Sector Brionesque - Amber": 5,
+        "Brione: Sector Brionesque - Amber": 4,
         "Chironico: Sector Paese": 7,
         "Cresciano: Sector Brasc vunc": 2,
         "Cavallers: Sector La Pedrera": 21,
