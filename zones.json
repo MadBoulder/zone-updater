@@ -1,9 +1,9 @@
 {
-    "date": "12-03-2022",
-    "previous_update": "11-03-2022",
-    "zones_total": 589,
+    "date": "14-03-2022",
+    "previous_update": "12-03-2022",
+    "zones_total": 590,
     "new_zones": {
-        "Chironico: Sector Altirolo barriera": 1
+        "Big Sandy": 2
     },
     "increased_videos": {},
     "zones_that_should_be_listed": {
@@ -93,7 +93,7 @@
         "La Jonquera": 68,
         "Salvanebleau": 109,
         "Can Bartomeu": 40,
-        "Chironico": 165,
+        "Chironico": 166,
         "Cresciano": 39,
         "Can Camps": 81,
         "La Comarca": 37,
@@ -101,7 +101,7 @@
         "Magic Wood": 177,
         "Cavallers": 219,
         "Can Boquet": 157,
-        "Albarracín": 543,
+        "Albarracín": 544,
         "Squamish": 10,
         "Laurenzoboulderfels": 13,
         "Savassona": 159,
@@ -110,6 +110,7 @@
         "Can Bruguera": 260
     },
     "zones": {
+        "Big Sandy": 2,
         "Chironico: Sector Altirolo barriera": 1,
         "Monte Bracco": 1,
         "Guanella Pass": 1,
@@ -617,7 +618,7 @@
         "Salvanebleau: Sector Cooperativa": 4,
         "Albarracín: Sector Cabrerizo": 39,
         "Albarracín: Sector Techos": 95,
-        "Albarracín: Sector Arrastradero": 90,
+        "Albarracín: Sector Arrastradero": 91,
         "Targasonne: Sector 3 grasses": 11,
         "Targasonne: Sector Baleine": 15,
         "Targasonne: Sector Dolmens": 18,
@@ -638,7 +639,7 @@
         "Gottardo: Sector Il cecchino": 3,
         "Gottardo: Sector Ecstasy": 8,
         "Gottardo": 57,
-        "Chironico: Sector Deliverance": 24,
+        "Chironico: Sector Deliverance": 25,
         "Val Daone": 18,
         "Magic Wood: Sector Bach": 35,
         "Magic Wood: Sector Beach": 23,
@@ -676,7 +677,7 @@
         "Sant Elm": 1,
         "Can Bartomeu": 40,
         "Can Bruguera: Sector Màgia Blanca": 15,
-        "Chironico": 165,
+        "Chironico": 166,
         "Cresciano": 39,
         "Can Camps": 81,
         "La Comarca": 37,
@@ -690,7 +691,7 @@
         "Can Bruguera: Sector Termita": 38,
         "Lighthouse Park": 2,
         "Can Boquet": 157,
-        "Albarracín": 543,
+        "Albarracín": 544,
         "Can Bruguera: Sector Cova del 8": 52,
         "Squamish": 10,
         "Laurenzoboulderfels": 13,
