@@ -1,8 +1,11 @@
 {
-    "date": "18-04-2022",
-    "previous_update": "17-04-2022",
-    "zones_total": 602,
-    "new_zones": {},
+    "date": "19-04-2022",
+    "previous_update": "18-04-2022",
+    "zones_total": 604,
+    "new_zones": {
+        "Big Choss": 1,
+        "Cromlech Roadside Boulders": 0
+    },
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Ubatuba": 6,
@@ -16,7 +19,7 @@
         "El Bierzo": 8,
         "Corme": 19,
         "Cerro Muriano": 8,
-        "Sintra": 14,
+        "Sintra": 15,
         "Villanueva del Rosario": 22,
         "Mocanaqua": 6,
         "Carver": 6,
@@ -111,6 +114,8 @@
         "Can Bruguera": 260
     },
     "zones": {
+        "Big Choss": 1,
+        "Cromlech Roadside Boulders": 0,
         "Salazar": 1,
         "Sintra: Sector Peninha - Kalash": 2,
         "Caseg Fraith": 2,
@@ -286,7 +291,7 @@
         "Spriana": 1,
         "Val di Mello: Sector Il mostro": 2,
         "Indian Creek": 1,
-        "Sintra": 14,
+        "Sintra": 15,
         "Villanueva del Rosario": 22,
         "Mont-roig del Camp: Sector l'Ermitany": 5,
         "Val Masino: Sector Pilastri del Pesgunfi": 2,
