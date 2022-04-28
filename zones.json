@@ -1,9 +1,9 @@
 {
-    "date": "27-04-2022",
-    "previous_update": "25-04-2022",
-    "zones_total": 607,
+    "date": "28-04-2022",
+    "previous_update": "27-04-2022",
+    "zones_total": 608,
     "new_zones": {
-        "La Pedriza: Sector Calígula": 1
+        "Can Bruguera: Sector Roc de l'Avi": 0
     },
     "increased_videos": {},
     "zones_that_should_be_listed": {
@@ -110,9 +110,10 @@
         "Savassona": 159,
         "Santa Blocona": 12,
         "Targasonne": 262,
-        "Can Bruguera": 260
+        "Can Bruguera": 261
     },
     "zones": {
+        "Can Bruguera: Sector Roc de l'Avi": 0,
         "La Pedriza: Sector Calígula": 1,
         "Rio Tinello": 2,
         "Dahab": 1,
@@ -719,6 +720,6 @@
         "Savassona": 159,
         "Santa Blocona": 12,
         "Targasonne": 262,
-        "Can Bruguera": 260
+        "Can Bruguera": 261
     }
 }
