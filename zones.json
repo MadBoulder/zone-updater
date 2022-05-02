@@ -1,11 +1,8 @@
 {
-    "date": "01-05-2022",
-    "previous_update": "29-04-2022",
+    "date": "02-05-2022",
+    "previous_update": "01-05-2022",
     "zones_total": 611,
-    "new_zones": {
-        "Castle Hill": 1,
-        "Sintra: Sector Peninha - Nova": 1
-    },
+    "new_zones": {},
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Ubatuba": 6,
@@ -45,7 +42,7 @@
         "Belmez": 13,
         "Vilafamés": 6,
         "El Regalito": 8,
-        "Mont-roig del Camp": 47,
+        "Mont-roig del Camp": 48,
         "Claverol": 7,
         "Rocacorba": 17,
         "Silvretta": 11,
@@ -454,7 +451,7 @@
         "Ahedo": 1,
         "Rozas": 4,
         "El Regalito": 8,
-        "Mont-roig del Camp": 47,
+        "Mont-roig del Camp": 48,
         "Santa Gadea": 1,
         "El Cogul: Sector Els Camps": 11,
         "El Cogul: Sector El Turonet": 12,
