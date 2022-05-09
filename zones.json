@@ -1,8 +1,10 @@
 {
-    "date": "08-05-2022",
-    "previous_update": "07-05-2022",
-    "zones_total": 614,
-    "new_zones": {},
+    "date": "09-05-2022",
+    "previous_update": "08-05-2022",
+    "zones_total": 615,
+    "new_zones": {
+        "Val Masino: Sector Visido - Vermuth Strisciut": 2
+    },
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Ubatuba": 6,
@@ -70,7 +72,7 @@
         "La Roca del Vallès": 21,
         "Alcañiz": 112,
         "Göschenen": 6,
-        "Val Masino": 90,
+        "Val Masino": 92,
         "Xixona": 9,
         "Lles de Cerdanya": 7,
         "Arbolí": 31,
@@ -111,6 +113,7 @@
         "Can Bruguera": 265
     },
     "zones": {
+        "Val Masino: Sector Visido - Vermuth Strisciut": 2,
         "Bishop Peak": 2,
         "La Pedriza: Sector La Foca": 3,
         "La Pedriza: Sector Laboratorio Inferior": 7,
@@ -580,7 +583,7 @@
         "Göschenen: Sector Schöllenen": 6,
         "Alcañiz": 112,
         "Göschenen": 6,
-        "Val Masino": 90,
+        "Val Masino": 92,
         "Chironico: Sector La soucoupe": 3,
         "Magic Wood: Sector Swiss": 4,
         "Chironico: Sector Boogalagga": 18,
