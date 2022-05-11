@@ -1,10 +1,8 @@
 {
-    "date": "10-05-2022",
-    "previous_update": "09-05-2022",
+    "date": "11-05-2022",
+    "previous_update": "10-05-2022",
     "zones_total": 616,
-    "new_zones": {
-        "Fontainebleau: Roche aux Sabots Sud": 0
-    },
+    "new_zones": {},
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Ubatuba": 7,
@@ -79,7 +77,7 @@
         "Annot": 6,
         "Zillertal": 6,
         "Orlu": 13,
-        "La Riba": 28,
+        "La Riba": 30,
         "Bezas": 61,
         "Yosemite Valley": 44,
         "Taradell": 8,
@@ -92,7 +90,7 @@
         "Val Daone": 18,
         "Cypress Mountain: Brothers Creek Erratic": 14,
         "Fontainebleau: Cul de Chien": 11,
-        "Fontainebleau": 235,
+        "Fontainebleau": 236,
         "La Jonquera": 89,
         "Salvanebleau": 116,
         "Can Bartomeu": 41,
@@ -109,7 +107,7 @@
         "Laurenzoboulderfels": 13,
         "Savassona": 159,
         "Santa Blocona": 12,
-        "Targasonne": 263,
+        "Targasonne": 266,
         "Can Bruguera": 265
     },
     "zones": {
@@ -410,7 +408,7 @@
         "Haycock Mountain": 5,
         "Albarracín: Sector La Colina": 5,
         "Albarracín: Sector El Cañón": 11,
-        "Fontainebleau: Sector Roche aux Sabots": 3,
+        "Fontainebleau: Sector Roche aux Sabots": 4,
         "La Jonquera: Sector Carpe Diem": 2,
         "La Jonquera: Sector Puig del Corb": 34,
         "Leavenworth: Sector Mountain Home Road": 3,
@@ -618,7 +616,7 @@
         "Targasonne: Sector Aigle": 13,
         "Targasonne: Sector Crash test": 13,
         "Fontainebleau: Sector Mont Blanc": 4,
-        "La Riba": 28,
+        "La Riba": 30,
         "Salvanebleau: Sector Mallencosa": 14,
         "Targasonne: Sector Balcons bavards": 11,
         "Malniu": 2,
@@ -649,8 +647,8 @@
         "Albarracín: Sector Techos": 101,
         "Albarracín: Sector Arrastradero": 93,
         "Targasonne: Sector 3 grasses": 11,
-        "Targasonne: Sector Baleine": 15,
-        "Targasonne: Sector Dolmens": 19,
+        "Targasonne: Sector Baleine": 17,
+        "Targasonne: Sector Dolmens": 20,
         "El Cogul": 76,
         "Ailefroide: Sector Surprise du Chef": 3,
         "Ailefroide": 10,
@@ -696,7 +694,7 @@
         "Fontainebleau: Sector Franchard Isatis": 20,
         "Fontainebleau: Sector Elephant": 13,
         "Fontainebleau: Sector 95.2": 25,
-        "Fontainebleau": 235,
+        "Fontainebleau": 236,
         "Puelles": 3,
         "La Jonquera": 89,
         "Montgai": 3,
@@ -727,7 +725,7 @@
         "Can Bruguera: Sector Durkuek": 70,
         "Savassona": 159,
         "Santa Blocona": 12,
-        "Targasonne": 263,
+        "Targasonne": 266,
         "Can Bruguera": 265
     }
 }
