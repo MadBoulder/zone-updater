@@ -1,10 +1,8 @@
 {
-    "date": "12-05-2022",
-    "previous_update": "11-05-2022",
+    "date": "13-05-2022",
+    "previous_update": "12-05-2022",
     "zones_total": 617,
-    "new_zones": {
-        "El Chaltén": 1
-    },
+    "new_zones": {},
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Ubatuba": 7,
