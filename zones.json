@@ -1,8 +1,10 @@
 {
-    "date": "19-05-2022",
-    "previous_update": "18-05-2022",
-    "zones_total": 620,
-    "new_zones": {},
+    "date": "20-05-2022",
+    "previous_update": "19-05-2022",
+    "zones_total": 621,
+    "new_zones": {
+        "Can Boquet: Sector Petit Paradís": 1
+    },
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "Ubatuba": 7,
@@ -101,16 +103,17 @@
         "Cypress Mountain": 19,
         "Magic Wood": 181,
         "Cavallers": 219,
-        "Can Boquet": 170,
+        "Can Boquet": 171,
         "Albarracín": 569,
         "Squamish": 16,
         "Laurenzoboulderfels": 13,
         "Savassona": 159,
         "Santa Blocona": 12,
-        "Targasonne": 274,
+        "Targasonne": 275,
         "Can Bruguera": 265
     },
     "zones": {
+        "Can Boquet: Sector Petit Paradís": 1,
         "Almenara": 2,
         "La Pedriza: Sector Bosque de Canto Cochino Oeste": 1,
         "Can Boquet: Sector Jonny Dawes": 7,
@@ -627,7 +630,7 @@
         "Bezas": 61,
         "Cavallers: Sector Toirigo": 20,
         "Cavallers: Sector Noves Tecnologies": 5,
-        "Targasonne: Sector Chapeau": 12,
+        "Targasonne: Sector Chapeau": 13,
         "Santa Fe del Montseny": 2,
         "Fontainebleau: Sector Franchard Sablons Carriers": 6,
         "Can Bruguera: Sector Parking": 35,
@@ -721,7 +724,7 @@
         "Bullenheimer Berg": 4,
         "Can Bruguera: Sector Termita": 38,
         "Lighthouse Park": 2,
-        "Can Boquet": 170,
+        "Can Boquet": 171,
         "Albarracín": 569,
         "Can Bruguera: Sector Cova del 8": 52,
         "Squamish": 16,
@@ -729,7 +732,7 @@
         "Can Bruguera: Sector Durkuek": 70,
         "Savassona": 159,
         "Santa Blocona": 12,
-        "Targasonne": 274,
+        "Targasonne": 275,
         "Can Bruguera": 265
     }
 }
