@@ -1,6 +1,6 @@
 {
-    "date": "02-06-2022",
-    "previous_update": "01-06-2022",
+    "date": "03-06-2022",
+    "previous_update": "02-06-2022",
     "zones_total": 626,
     "new_zones": {},
     "increased_videos": {},
@@ -27,7 +27,7 @@
         "Castle Rock CA": 6,
         "Maldà": 29,
         "Priest Draw": 7,
-        "Moe's Valley": 18,
+        "Moe's Valley": 21,
         "Joshua Tree": 15,
         "Red Rocks": 41,
         "Black Mountain": 19,
@@ -91,7 +91,7 @@
         "Val Daone": 18,
         "Cypress Mountain: Brothers Creek Erratic": 14,
         "Fontainebleau: Cul de Chien": 11,
-        "Fontainebleau": 250,
+        "Fontainebleau": 252,
         "La Jonquera": 94,
         "Salvanebleau": 118,
         "Can Bartomeu": 43,
@@ -108,8 +108,8 @@
         "Laurenzoboulderfels": 13,
         "Savassona": 159,
         "Santa Blocona": 12,
-        "Targasonne": 279,
-        "Can Bruguera": 266
+        "Targasonne": 280,
+        "Can Bruguera": 267
     },
     "zones": {
         "Mount Tamalpais": 1,
@@ -281,7 +281,7 @@
         "El Bierzo: Sector borrenes": 3,
         "El Bierzo: Sector Molina": 1,
         "Sherwood Forest": 1,
-        "Fontainebleau: Sector Petit Bois": 4,
+        "Fontainebleau: Sector Petit Bois": 5,
         "Clogwyn y Bustach": 1,
         "El Bierzo": 8,
         "Corme": 19,
@@ -399,7 +399,7 @@
         "Red Rocks: Sector Calico basin": 3,
         "Red Rocks: Sector Black Velvet Canyon": 3,
         "Brione: Sector Pièe": 2,
-        "Moe's Valley": 18,
+        "Moe's Valley": 21,
         "Llíria": 2,
         "Can Bruguera: Sector Vall de Cogombres": 4,
         "Albarracín: Sector Territorio Discovery": 7,
@@ -658,7 +658,7 @@
         "Albarracín: Sector Techos": 102,
         "Albarracín: Sector Arrastradero": 94,
         "Targasonne: Sector 3 grasses": 11,
-        "Targasonne: Sector Baleine": 24,
+        "Targasonne: Sector Baleine": 25,
         "Targasonne: Sector Dolmens": 22,
         "El Cogul": 79,
         "Ailefroide: Sector Surprise du Chef": 3,
@@ -705,7 +705,7 @@
         "Fontainebleau: Sector Franchard Isatis": 22,
         "Fontainebleau: Sector Elephant": 13,
         "Fontainebleau: Sector 95.2": 25,
-        "Fontainebleau": 250,
+        "Fontainebleau": 252,
         "Puelles": 3,
         "La Jonquera": 94,
         "Montgai": 3,
@@ -726,7 +726,7 @@
         "Arenys de Munt": 5,
         "Can Bruguera: Sector Summerhill": 15,
         "Bullenheimer Berg": 4,
-        "Can Bruguera: Sector Termita": 38,
+        "Can Bruguera: Sector Termita": 39,
         "Lighthouse Park": 2,
         "Can Boquet": 175,
         "Albarracín": 574,
@@ -736,7 +736,7 @@
         "Can Bruguera: Sector Durkuek": 70,
         "Savassona": 159,
         "Santa Blocona": 12,
-        "Targasonne": 279,
-        "Can Bruguera": 266
+        "Targasonne": 280,
+        "Can Bruguera": 267
     }
 }
