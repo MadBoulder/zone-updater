@@ -1,6 +1,6 @@
 {
-    "date": "04-06-2022",
-    "previous_update": "03-06-2022",
+    "date": "05-06-2022",
+    "previous_update": "04-06-2022",
     "zones_total": 626,
     "new_zones": {},
     "increased_videos": {},
@@ -108,8 +108,8 @@
         "Laurenzoboulderfels": 13,
         "Savassona": 159,
         "Santa Blocona": 12,
-        "Targasonne": 280,
-        "Can Bruguera": 267
+        "Targasonne": 281,
+        "Can Bruguera": 269
     },
     "zones": {
         "Mount Tamalpais": 1,
@@ -641,7 +641,7 @@
         "Fontainebleau: Sector Bas Cuvier": 11,
         "Albarracín: Sector Entre Aguas": 26,
         "Albarracín: Sector Parking": 44,
-        "Can Bruguera: Sector Muralla Xina": 10,
+        "Can Bruguera: Sector Muralla Xina": 12,
         "La Jonquera: Sector Mont amour": 3,
         "Cavallers: Sector Mct": 4,
         "Cavallers: Sector Pikenike": 21,
@@ -658,7 +658,7 @@
         "Albarracín: Sector Techos": 102,
         "Albarracín: Sector Arrastradero": 94,
         "Targasonne: Sector 3 grasses": 11,
-        "Targasonne: Sector Baleine": 25,
+        "Targasonne: Sector Baleine": 26,
         "Targasonne: Sector Dolmens": 22,
         "El Cogul": 79,
         "Ailefroide: Sector Surprise du Chef": 3,
@@ -736,7 +736,7 @@
         "Can Bruguera: Sector Durkuek": 70,
         "Savassona": 159,
         "Santa Blocona": 12,
-        "Targasonne": 280,
-        "Can Bruguera": 267
+        "Targasonne": 281,
+        "Can Bruguera": 269
     }
 }
