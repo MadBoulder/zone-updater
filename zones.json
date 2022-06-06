@@ -1,6 +1,6 @@
 {
-    "date": "05-06-2022",
-    "previous_update": "04-06-2022",
+    "date": "06-06-2022",
+    "previous_update": "05-06-2022",
     "zones_total": 626,
     "new_zones": {},
     "increased_videos": {},
@@ -108,7 +108,7 @@
         "Laurenzoboulderfels": 13,
         "Savassona": 159,
         "Santa Blocona": 12,
-        "Targasonne": 281,
+        "Targasonne": 282,
         "Can Bruguera": 269
     },
     "zones": {
@@ -200,7 +200,7 @@
         "Little Cottonwood Canyon": 1,
         "Zumaia": 1,
         "Pine Mountain": 1,
-        "Villa di Chiavenna": 3,
+        "Villa di Chiavenna": 4,
         "Lookout Mountain": 1,
         "Maltatal": 1,
         "Orhem": 1,
@@ -646,7 +646,7 @@
         "Cavallers: Sector Mct": 4,
         "Cavallers: Sector Pikenike": 21,
         "Yosemite: Sector Housekeeping": 7,
-        "Targasonne: Sector Créatura": 9,
+        "Targasonne: Sector Créatura": 10,
         "Salvanebleau: Sector de la Font": 2,
         "Targasonne: Sector Arche": 12,
         "Yosemite Valley: Sector Camp 4": 16,
@@ -736,7 +736,7 @@
         "Can Bruguera: Sector Durkuek": 70,
         "Savassona": 159,
         "Santa Blocona": 12,
-        "Targasonne": 281,
+        "Targasonne": 282,
         "Can Bruguera": 269
     }
 }
