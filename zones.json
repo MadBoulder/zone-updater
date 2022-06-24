@@ -1,8 +1,10 @@
 {
-    "date": "23-06-2022",
-    "previous_update": "22-06-2022",
-    "zones_total": 635,
-    "new_zones": {},
+    "date": "24-06-2022",
+    "previous_update": "23-06-2022",
+    "zones_total": 636,
+    "new_zones": {
+        "Val di Mello: Sector Proprietà privata": 2
+    },
     "increased_videos": {},
     "zones_that_should_be_listed": {
         "El Escorial": 6,
@@ -18,7 +20,7 @@
         "El Bierzo": 8,
         "Corme": 19,
         "Cerro Muriano": 8,
-        "Sintra": 20,
+        "Sintra": 21,
         "Villanueva del Rosario": 23,
         "Mocanaqua": 6,
         "Carver": 6,
@@ -61,7 +63,7 @@
         "Hoyamoros": 30,
         "Val Bavona": 8,
         "Rocklands": 105,
-        "Val di Mello": 16,
+        "Val di Mello": 18,
         "Murgtal": 17,
         "Lagundo/Algund": 6,
         "Pena Corneira": 8,
@@ -113,6 +115,7 @@
         "Can Bruguera": 275
     },
     "zones": {
+        "Val di Mello: Sector Proprietà privata": 2,
         "Sintra: Sector Capuchos": 1,
         "Torrelodones": 5,
         "Patones": 1,
@@ -326,9 +329,9 @@
         "Brione: Sector Pianesc": 3,
         "Val di Mello: Sector La M": 3,
         "Spriana": 1,
-        "Val di Mello: Sector Il mostro": 3,
+        "Val di Mello: Sector Il mostro": 4,
         "Indian Creek": 1,
-        "Sintra": 20,
+        "Sintra": 21,
         "Villanueva del Rosario": 23,
         "Mont-roig del Camp: Sector l'Ermitany": 5,
         "Val Masino: Sector Pilastri del Pesgunfi": 2,
@@ -556,7 +559,7 @@
         "Val Masino: Sector Zocca Superiore": 3,
         "Val Daone: Sector La Curva": 7,
         "Val di Mello: Sector Il francese": 3,
-        "Val di Mello": 16,
+        "Val di Mello": 18,
         "Murgtal": 17,
         "Albarracín: Sector Prado del Navazo Este": 7,
         "Bergkristall": 1,
