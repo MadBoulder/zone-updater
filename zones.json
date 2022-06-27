@@ -1,9 +1,10 @@
 {
-    "date": "26-06-2022",
-    "previous_update": "25-06-2022",
-    "zones_total": 637,
+    "date": "27-06-2022",
+    "previous_update": "26-06-2022",
+    "zones_total": 639,
     "new_zones": {
-        "Sintra: Sector Malveira - Dinossauros": 2
+        "Sintra: Sector Malveira - Obélix": 1,
+        "Valsaín": 1
     },
     "increased_videos": {},
     "zones_that_should_be_listed": {
@@ -20,7 +21,7 @@
         "El Bierzo": 8,
         "Corme": 19,
         "Cerro Muriano": 8,
-        "Sintra": 23,
+        "Sintra": 24,
         "Villanueva del Rosario": 23,
         "Mocanaqua": 6,
         "Carver": 6,
@@ -33,6 +34,7 @@
         "Moe's Valley": 29,
         "Joshua Tree": 15,
         "Red Rocks": 41,
+        "Torrelodones": 7,
         "Black Mountain": 20,
         "Selvapiana": 8,
         "San Cassiano": 10,
@@ -115,10 +117,11 @@
         "Can Bruguera": 275
     },
     "zones": {
+        "Sintra: Sector Malveira - Obélix": 1,
+        "Valsaín": 1,
         "Sintra: Sector Malveira - Dinossauros": 2,
         "Val di Mello: Sector Proprietà privata": 2,
         "Sintra: Sector Capuchos": 1,
-        "Torrelodones": 5,
         "Patones": 1,
         "Tramway": 4,
         "El Escorial": 6,
@@ -332,7 +335,7 @@
         "Spriana": 1,
         "Val di Mello: Sector Il mostro": 4,
         "Indian Creek": 1,
-        "Sintra": 23,
+        "Sintra": 24,
         "Villanueva del Rosario": 23,
         "Mont-roig del Camp: Sector l'Ermitany": 5,
         "Val Masino: Sector Pilastri del Pesgunfi": 2,
@@ -426,6 +429,7 @@
         "Espiel": 4,
         "La Pedriza: Sector Dehesa Inferior": 5,
         "Jupiter Boulders": 2,
+        "Torrelodones": 7,
         "Black Mountain": 20,
         "Pferdestall": 1,
         "Okertal": 3,
