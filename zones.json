@@ -1,9 +1,9 @@
 {
-    "date": "29-06-2022",
-    "previous_update": "28-06-2022",
-    "zones_total": 640,
+    "date": "30-06-2022",
+    "previous_update": "29-06-2022",
+    "zones_total": 641,
     "new_zones": {
-        "Ouro Preto": 1
+        "Sintra: Sector Malveira - Campo Base": 0
     },
     "increased_videos": {},
     "zones_that_should_be_listed": {
@@ -20,7 +20,7 @@
         "El Bierzo": 8,
         "Corme": 19,
         "Cerro Muriano": 8,
-        "Sintra": 24,
+        "Sintra": 25,
         "Villanueva del Rosario": 23,
         "Mocanaqua": 6,
         "Carver": 6,
@@ -106,7 +106,7 @@
         "Cypress Mountain": 19,
         "Magic Wood": 182,
         "Cavallers": 219,
-        "Can Boquet": 180,
+        "Can Boquet": 181,
         "Albarracín": 578,
         "Squamish": 16,
         "Laurenzoboulderfels": 13,
@@ -116,6 +116,7 @@
         "Can Bruguera": 275
     },
     "zones": {
+        "Sintra: Sector Malveira - Campo Base": 0,
         "Ouro Preto": 1,
         "Sintra: Sector Malveira - Obélix": 1,
         "Valsaín": 2,
@@ -138,7 +139,7 @@
         "La Pedriza: Sector Crossroads Oeste": 1,
         "La Pedriza: Sector Depósitos Este": 1,
         "Mt. Evans": 1,
-        "Can Boquet: Sector Petit Paradís": 10,
+        "Can Boquet: Sector Petit Paradís": 11,
         "Almenara": 2,
         "La Pedriza: Sector Bosque de Canto Cochino Oeste": 1,
         "Can Boquet: Sector Jonny Dawes": 7,
@@ -335,7 +336,7 @@
         "Spriana": 1,
         "Val di Mello: Sector Il mostro": 4,
         "Indian Creek": 1,
-        "Sintra": 24,
+        "Sintra": 25,
         "Villanueva del Rosario": 23,
         "Mont-roig del Camp: Sector l'Ermitany": 5,
         "Val Masino: Sector Pilastri del Pesgunfi": 2,
@@ -746,7 +747,7 @@
         "Bullenheimer Berg": 4,
         "Can Bruguera: Sector Termita": 39,
         "Lighthouse Park": 2,
-        "Can Boquet": 180,
+        "Can Boquet": 181,
         "Albarracín": 578,
         "Can Bruguera: Sector Cova del 8": 52,
         "Squamish": 16,
