@@ -1,9 +1,10 @@
 {
-    "date": "05-07-2022",
-    "previous_update": "04-07-2022",
-    "zones_total": 644,
+    "date": "06-07-2022",
+    "previous_update": "05-07-2022",
+    "zones_total": 645,
     "new_zones": {
-        "北山公園": 1
+        "La Pedriza: Sector Pradera del Pancho": 1,
+        "北山公園 (Kitayama)": 1
     },
     "increased_videos": {},
     "zones_that_should_be_listed": {
@@ -91,7 +92,7 @@
         "Ailefroide": 10,
         "Fussimanya": 13,
         "Bagni di Masino": 40,
-        "La Pedriza": 111,
+        "La Pedriza": 112,
         "Gottardo": 57,
         "Val Daone": 18,
         "Cypress Mountain: Brothers Creek Erratic": 14,
@@ -117,7 +118,8 @@
         "Can Bruguera": 275
     },
     "zones": {
-        "北山公園": 1,
+        "La Pedriza: Sector Pradera del Pancho": 1,
+        "北山公園 (Kitayama)": 1,
         "Sunol": 2,
         "Balsthal": 1,
         "Sintra: Sector Malveira - Campo Base": 2,
@@ -694,7 +696,7 @@
         "Cavallers: Sector Voraelriu": 6,
         "Cavallers: Sector El Bosc": 34,
         "Magic Wood: Sector Haupt 1": 18,
-        "La Pedriza": 111,
+        "La Pedriza": 112,
         "Lynn Valley Boulders": 5,
         "Magic Wood: Sector Haupt 2": 16,
         "Gottardo: Sector Il cecchino": 3,
