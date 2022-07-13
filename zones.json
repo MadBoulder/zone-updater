@@ -4,6 +4,18 @@
     "zones_total": 648,
     "new_zones": {},
     "increased_videos": {},
+    "missing_zones": [
+        "Kings Canyon",
+        "El Bierzo",
+        "Torrelodones",
+        "Meschia Nuova",
+        "El Escorial",
+        "Ubatuba",
+        "Monte Xalo",
+        "Hueco Tanks",
+        "Varazze",
+        "El Chaltén"
+    ],
     "zones_that_should_be_listed": {
         "Hueco Tanks": 6,
         "El Escorial": 8,
@@ -94,8 +106,6 @@
         "La Pedriza": 115,
         "Gottardo": 57,
         "Val Daone": 18,
-        "Cypress Mountain: Brothers Creek Erratic": 14,
-        "Fontainebleau: Cul de Chien": 11,
         "Fontainebleau": 265,
         "La Jonquera": 94,
         "Salvanebleau": 118,

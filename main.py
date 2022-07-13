@@ -84,18 +84,22 @@ def update_zones():
         if has_number_of_videos_changed(key, val, current_zones)
     }
 
+    to_be_listed = zones_to_be_listed(current_zones)
+
     updated_data = {
         'date': current_date,
         'previous_update': previous_update,
         'zones_total': len(current_zones),
         'new_zones': new_zones,
         'increased_videos': increased_videos,
-        'zones_that_should_be_listed': zones_to_be_listed(current_zones),
+        'missing_zones': update_zones_to_list(to_be_listed),
+        'zones_that_should_be_listed': to_be_listed,
         'zones': current_zones
         # 'not_included': not_included
     }
     with open('zones.json', 'w', encoding='utf-8') as f:
         json.dump(updated_data, f, indent=4, ensure_ascii=False)
+
     return new_zones
 
 
@@ -103,7 +107,7 @@ def zones_to_be_listed(current_zones, threshold=6):
     return {
         key: val
         for key, val in current_zones.items()
-        if val >= threshold and 'sector' not in key.lower()
+        if val >= threshold and 'sector' not in key.lower() and ':' not in key.lower()
     }
 
 
@@ -140,11 +144,22 @@ def get_all_included_zones_and_sectors(rel_path='../BetaLibrary/'):
 
 def list_not_added(current_zones, included_zones):
     """
-    List de sectors and zones that have a playlist but haven't been 
+    List the sectors and zones that have a playlist but haven't been 
     added to the web yet.
     """
     return list(set(current_zones) - set(included_zones))
 
+def update_zones_to_list(to_be_listed):
+    # read zones that should be listed from zones.json
+    # read zones from zones_included.json
+    # write the difference
+    zones_to_be_listed = set(to_be_listed)
+    zones_listed = None
+    with open('zones_included.json', 'r', encoding='utf-8') as f:
+        zone_data = json.load(f)
+        zones_listed = set(zone_data.get('zones', []))
+    
+    return list(zones_to_be_listed - zones_listed)
 
 if __name__ == "__main__":
     new_zones = update_zones()
