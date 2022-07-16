@@ -1,23 +1,23 @@
 {
-    "date": "15-07-2022",
-    "previous_update": "14-07-2022",
-    "zones_total": 649,
+    "date": "16-07-2022",
+    "previous_update": "15-07-2022",
+    "zones_total": 650,
     "new_zones": {
-        "Sintra: Sector Tapada - Éden, Canal & Arca": 1
+        "Sobrio": 1
     },
     "increased_videos": {},
     "missing_zones": [
-        "Hueco Tanks",
+        "Torrelodones",
+        "Meschia Nuova",
         "El Escorial",
         "Monte Xalo",
-        "Varazze",
         "Tramway",
-        "Kings Canyon",
-        "Meschia Nuova",
-        "El Bierzo",
+        "Hueco Tanks",
         "Ubatuba",
-        "Torrelodones",
-        "El Chaltén"
+        "El Bierzo",
+        "Kings Canyon",
+        "El Chaltén",
+        "Varazze"
     ],
     "zones_that_should_be_listed": {
         "Hueco Tanks": 6,
@@ -131,6 +131,7 @@
         "Can Bruguera": 275
     },
     "zones": {
+        "Sobrio": 1,
         "La Pedriza: Sector La Cuesta": 1,
         "Sintra: Sector Tapada - Éden, Canal & Arca": 1,
         "Sintra: Sector Albarrasintra - Meca": 2,
