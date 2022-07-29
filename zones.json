@@ -1,24 +1,21 @@
 {
-    "date": "28-07-2022",
-    "previous_update": "27-07-2022",
+    "date": "29-07-2022",
+    "previous_update": "28-07-2022",
     "zones_total": 656,
-    "new_zones": {
-        "Valle dell'Orco": 1,
-        "Sintra: Sector Vale das Acácias - Pico": 0
-    },
+    "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
-        "El Escorial",
-        "Torrelodones",
-        "Ubatuba",
-        "Tramway",
-        "Monte Xalo",
+        "Hueco Tanks",
+        "El Bierzo",
         "Varazze",
         "Meschia Nuova",
-        "Hueco Tanks",
+        "Tramway",
+        "Torrelodones",
+        "El Escorial",
+        "Ubatuba",
         "El Chaltén",
         "Kings Canyon",
-        "El Bierzo"
+        "Monte Xalo"
     ],
     "zones_that_should_be_listed": {
         "Hueco Tanks": 7,
@@ -129,12 +126,12 @@
         "Laurenzoboulderfels": 13,
         "Savassona": 159,
         "Santa Blocona": 12,
-        "Targasonne": 314,
+        "Targasonne": 315,
         "Can Bruguera": 275
     },
     "zones": {
         "Valle dell'Orco": 1,
-        "Sintra: Sector Vale das Acácias - Pico": 0,
+        "Sintra: Sector Vale das Acácias - Pico": 1,
         "La Pedriza: Sector Quirófano": 0,
         "Siurana": 1,
         "Sintra: Sector Praia do Cavalo": 1,
@@ -685,7 +682,7 @@
         "Bezas": 62,
         "Cavallers: Sector Toirigo": 20,
         "Cavallers: Sector Noves Tecnologies": 5,
-        "Targasonne: Sector Chapeau": 17,
+        "Targasonne: Sector Chapeau": 18,
         "Santa Fe del Montseny": 2,
         "Fontainebleau: Sector Franchard Sablons Carriers": 6,
         "Can Bruguera: Sector Parking": 35,
@@ -787,7 +784,7 @@
         "Can Bruguera: Sector Durkuek": 73,
         "Savassona": 159,
         "Santa Blocona": 12,
-        "Targasonne": 314,
+        "Targasonne": 315,
         "Can Bruguera": 275
     }
 }
