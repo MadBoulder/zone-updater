@@ -1,24 +1,21 @@
 {
-    "date": "31-07-2022",
-    "previous_update": "29-07-2022",
+    "date": "01-08-2022",
+    "previous_update": "31-07-2022",
     "zones_total": 658,
-    "new_zones": {
-        "Alcolea del Pinar": 1,
-        "Sintra: Sector Satã Satã": 1
-    },
+    "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
-        "Ubatuba",
         "El Bierzo",
-        "Kings Canyon",
-        "Meschia Nuova",
-        "Hueco Tanks",
-        "Varazze",
-        "El Chaltén",
-        "Torrelodones",
-        "Monte Xalo",
         "El Escorial",
-        "Tramway"
+        "Kings Canyon",
+        "El Chaltén",
+        "Hueco Tanks",
+        "Tramway",
+        "Torrelodones",
+        "Meschia Nuova",
+        "Monte Xalo",
+        "Ubatuba",
+        "Varazze"
     ],
     "zones_that_should_be_listed": {
         "Hueco Tanks": 9,
