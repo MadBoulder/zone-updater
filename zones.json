@@ -1,24 +1,22 @@
 {
-    "date": "03-08-2022",
-    "previous_update": "02-08-2022",
+    "date": "04-08-2022",
+    "previous_update": "03-08-2022",
     "zones_total": 659,
-    "new_zones": {
-        "Gaby": 0
-    },
+    "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
         "Torrelodones",
-        "Monte Xalo",
+        "Hueco Tanks",
+        "El Chaltén",
+        "Ubatuba",
+        "Columbia",
         "Kings Canyon",
         "Meschia Nuova",
         "Tramway",
-        "Ubatuba",
-        "Columbia",
         "El Escorial",
-        "Varazze",
-        "El Chaltén",
         "El Bierzo",
-        "Hueco Tanks"
+        "Varazze",
+        "Monte Xalo"
     ],
     "zones_that_should_be_listed": {
         "Hueco Tanks": 9,
@@ -135,7 +133,7 @@
     },
     "zones": {
         "Targasonne: Sector Proue": 8,
-        "Gaby": 0,
+        "Gaby": 1,
         "Val Calanca": 1,
         "Alcolea del Pinar": 1,
         "Sintra: Sector Satã Satã": 3,
