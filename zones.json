@@ -1,24 +1,22 @@
 {
-    "date": "07-08-2022",
-    "previous_update": "06-08-2022",
+    "date": "08-08-2022",
+    "previous_update": "07-08-2022",
     "zones_total": 660,
-    "new_zones": {
-        "Campisabalos": 2
-    },
+    "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
-        "El Escorial",
-        "Tramway",
-        "Ubatuba",
-        "Meschia Nuova",
         "Torrelodones",
-        "Varazze",
-        "Columbia",
+        "Hueco Tanks",
+        "Ubatuba",
         "El Chaltén",
-        "El Bierzo",
         "Kings Canyon",
         "Monte Xalo",
-        "Hueco Tanks"
+        "El Bierzo",
+        "El Escorial",
+        "Columbia",
+        "Meschia Nuova",
+        "Varazze",
+        "Tramway"
     ],
     "zones_that_should_be_listed": {
         "Hueco Tanks": 9,
