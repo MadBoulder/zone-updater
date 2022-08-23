@@ -1,25 +1,22 @@
 {
-    "date": "22-08-2022",
-    "previous_update": "17-08-2022",
+    "date": "23-08-2022",
+    "previous_update": "22-08-2022",
     "zones_total": 666,
-    "new_zones": {
-        "Sintra: Sector Albarrasintra - Meca Surrounds": 0,
-        "Sintra: Sector Monte da Cruz": 1
-    },
+    "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
+        "Hueco Tanks",
+        "Columbia",
+        "Tramway",
+        "El Bierzo",
         "El Chaltén",
         "Meschia Nuova",
-        "Hueco Tanks",
-        "Tramway",
-        "Kings Canyon",
-        "Columbia",
         "Varazze",
-        "El Escorial",
-        "Ubatuba",
+        "Monte Xalo",
         "Torrelodones",
-        "El Bierzo",
-        "Monte Xalo"
+        "Ubatuba",
+        "Kings Canyon",
+        "El Escorial"
     ],
     "zones_that_should_be_listed": {
         "Hueco Tanks": 10,
@@ -105,7 +102,7 @@
         "Orlu": 13,
         "La Riba": 40,
         "Bezas": 62,
-        "Yosemite Valley": 58,
+        "Yosemite Valley": 59,
         "Taradell": 8,
         "El Cogul": 82,
         "Ailefroide": 16,
@@ -135,7 +132,7 @@
         "Can Bruguera": 280
     },
     "zones": {
-        "Sintra: Sector Albarrasintra - Meca Surrounds": 0,
+        "Sintra: Sector Albarrasintra - Meca Surrounds": 1,
         "Sintra: Sector Monte da Cruz": 1,
         "Brione: Sector Vecchio Leone": 1,
         "Petrohrad": 2,
@@ -475,7 +472,7 @@
         "La Pedriza: Sector La Colmena": 2,
         "Espiel": 4,
         "La Pedriza: Sector Dehesa Inferior": 5,
-        "Jupiter Boulders": 2,
+        "Jupiter Boulders": 3,
         "Torrelodones": 6,
         "Black Mountain": 23,
         "Pferdestall": 1,
@@ -713,7 +710,7 @@
         "Salvanebleau: Sector de la Font": 2,
         "Targasonne: Sector Arche": 13,
         "Yosemite Valley: Sector Camp 4": 17,
-        "Yosemite Valley": 58,
+        "Yosemite Valley": 59,
         "Taradell": 8,
         "Zion National Park": 2,
         "Salvanebleau: Sector Cooperativa": 4,
