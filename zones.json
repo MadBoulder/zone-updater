@@ -1,24 +1,22 @@
 {
-    "date": "31-08-2022",
-    "previous_update": "30-08-2022",
+    "date": "01-09-2022",
+    "previous_update": "31-08-2022",
     "zones_total": 672,
-    "new_zones": {
-        "Fontainemore": 1
-    },
+    "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
-        "Ubatuba",
-        "Torrelodones",
-        "Varazze",
-        "Tramway",
-        "Hueco Tanks",
-        "Columbia",
-        "El Bierzo",
-        "Kings Canyon",
-        "Meschia Nuova",
         "El Escorial",
+        "Meschia Nuova",
+        "Ubatuba",
+        "Kings Canyon",
+        "Varazze",
+        "Columbia",
+        "El Chaltén",
         "Monte Xalo",
-        "El Chaltén"
+        "Torrelodones",
+        "Tramway",
+        "El Bierzo",
+        "Hueco Tanks"
     ],
     "zones_that_should_be_listed": {
         "Hueco Tanks": 10,
