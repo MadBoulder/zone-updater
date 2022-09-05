@@ -1,26 +1,22 @@
 {
-    "date": "04-09-2022",
-    "previous_update": "02-09-2022",
+    "date": "05-09-2022",
+    "previous_update": "04-09-2022",
     "zones_total": 676,
-    "new_zones": {
-        "June Lake": 3,
-        "Hönö": 1,
-        "Sintra: Sector Albarrasintra - Pedra Branca": 1
-    },
+    "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
+        "Ubatuba",
+        "Columbia",
+        "El Chaltén",
+        "Kings Canyon",
+        "El Bierzo",
         "Torrelodones",
         "Monte Xalo",
-        "Kings Canyon",
-        "Columbia",
-        "Varazze",
         "Tramway",
         "El Escorial",
         "Meschia Nuova",
-        "El Bierzo",
-        "Ubatuba",
-        "Hueco Tanks",
-        "El Chaltén"
+        "Varazze",
+        "Hueco Tanks"
     ],
     "zones_that_should_be_listed": {
         "Hueco Tanks": 10,
