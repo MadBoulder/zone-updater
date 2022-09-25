@@ -1,23 +1,23 @@
 {
-    "date": "24-09-2022",
-    "previous_update": "23-09-2022",
+    "date": "25-09-2022",
+    "previous_update": "24-09-2022",
     "zones_total": 677,
     "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
-        "Kings Canyon",
-        "Columbia",
-        "Ubatuba",
-        "Meschia Nuova",
-        "Hueco Tanks",
-        "Hönö",
-        "El Escorial",
-        "Varazze",
-        "Torrelodones",
         "El Bierzo",
-        "Tramway",
+        "Ubatuba",
+        "El Chaltén",
+        "El Escorial",
+        "Hönö",
+        "Meschia Nuova",
         "Monte Xalo",
-        "El Chaltén"
+        "Kings Canyon",
+        "Hueco Tanks",
+        "Tramway",
+        "Torrelodones",
+        "Columbia",
+        "Varazze"
     ],
     "zones_that_should_be_listed": {
         "Hönö": 7,
@@ -123,7 +123,7 @@
         "La Comarca": 38,
         "Cypress Mountain": 19,
         "Magic Wood": 202,
-        "Cavallers": 231,
+        "Cavallers": 232,
         "Can Boquet": 196,
         "Albarracín": 595,
         "Squamish": 17,
@@ -131,7 +131,7 @@
         "Savassona": 159,
         "Santa Blocona": 12,
         "Targasonne": 333,
-        "Can Bruguera": 286
+        "Can Bruguera": 287
     },
     "zones": {
         "Magic Wood: Sector Haupt 3": 3,
@@ -672,7 +672,7 @@
         "Val Masino": 93,
         "Chironico: Sector Boogalagga": 19,
         "Xixona": 9,
-        "Tavertet": 1,
+        "Tavertet": 2,
         "Albarracín: Sector Valle de la Madera": 29,
         "Mañaria": 0,
         "Chironico: Sector Nivo bassa": 18,
@@ -742,7 +742,7 @@
         "Salvanebleau: Sector Mafrica": 2,
         "Cypress Falls Park": 4,
         "Cavallers: Sector Voraelriu": 6,
-        "Cavallers: Sector El Bosc": 36,
+        "Cavallers: Sector El Bosc": 37,
         "Magic Wood: Sector Haupt 1": 20,
         "La Pedriza": 121,
         "Lynn Valley Boulders": 5,
@@ -795,7 +795,7 @@
         "Cypress Mountain": 19,
         "Magic Wood": 202,
         "SFU boulder": 4,
-        "Cavallers": 231,
+        "Cavallers": 232,
         "Arenys de Munt": 5,
         "Can Bruguera: Sector Summerhill": 15,
         "Bullenheimer Berg": 4,
@@ -806,10 +806,10 @@
         "Can Bruguera: Sector Cova del 8": 52,
         "Squamish": 17,
         "Laurenzoboulderfels": 13,
-        "Can Bruguera: Sector Durkuek": 75,
+        "Can Bruguera: Sector Durkuek": 76,
         "Savassona": 159,
         "Santa Blocona": 12,
         "Targasonne": 333,
-        "Can Bruguera": 286
+        "Can Bruguera": 287
     }
 }
