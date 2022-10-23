@@ -1,27 +1,24 @@
 {
-    "date": "22-10-2022",
-    "previous_update": "21-10-2022",
+    "date": "23-10-2022",
+    "previous_update": "22-10-2022",
     "zones_total": 681,
-    "new_zones": {
-        "Mickey's Beach": 0,
-        "Doyle": 0
-    },
+    "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
-        "El Escorial",
         "Varazze",
-        "Ubatuba",
-        "Meschia Nuova",
-        "Columbia",
-        "El Chaltén",
-        "El Bierzo",
         "Hueco Tanks",
         "Hönö",
-        "Torrelodones",
         "Tramway",
-        "Kings Canyon",
         "Index",
-        "Monte Xalo"
+        "Kings Canyon",
+        "Ubatuba",
+        "El Escorial",
+        "Torrelodones",
+        "Monte Xalo",
+        "Meschia Nuova",
+        "El Bierzo",
+        "Columbia",
+        "El Chaltén"
     ],
     "zones_that_should_be_listed": {
         "Hönö": 10,
@@ -139,8 +136,8 @@
         "Can Bruguera": 292
     },
     "zones": {
-        "Mickey's Beach": 0,
-        "Doyle": 0,
+        "Mickey's Beach": 1,
+        "Doyle": 1,
         "Sintra: Sector Albarrasintra - Mito": 3,
         "Cavallers: Sector La Reserva": 3,
         "Magic Wood: Sector Haupt 3": 3,
