@@ -1,21 +1,21 @@
 {
-    "date": "12-11-2022",
-    "previous_update": "11-11-2022",
+    "date": "13-11-2022",
+    "previous_update": "12-11-2022",
     "zones_total": 687,
     "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
+        "Kings Canyon",
         "Hönö",
+        "Index",
+        "Hueco Tanks",
+        "El Bierzo",
         "Meschia Nuova",
         "El Chaltén",
-        "Monte Xalo",
-        "Hueco Tanks",
-        "Columbia",
-        "Index",
-        "Skykomish",
         "El Escorial",
-        "El Bierzo",
-        "Kings Canyon"
+        "Skykomish",
+        "Monte Xalo",
+        "Columbia"
     ],
     "zones_that_should_be_listed": {
         "Hönö": 10,
