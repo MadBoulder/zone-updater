@@ -1,23 +1,21 @@
 {
-    "date": "19-11-2022",
-    "previous_update": "18-11-2022",
+    "date": "20-11-2022",
+    "previous_update": "19-11-2022",
     "zones_total": 689,
-    "new_zones": {
-        "Salvanebleau: Sector Les casetes": 3
-    },
+    "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
-        "Skykomish",
-        "Columbia",
-        "Hönö",
-        "El Escorial",
-        "Meschia Nuova",
-        "Monte Xalo",
-        "El Chaltén",
-        "El Bierzo",
         "Hueco Tanks",
+        "Kings Canyon",
+        "Skykomish",
+        "Hönö",
         "Index",
-        "Kings Canyon"
+        "Meschia Nuova",
+        "El Escorial",
+        "Monte Xalo",
+        "Columbia",
+        "El Bierzo",
+        "El Chaltén"
     ],
     "zones_that_should_be_listed": {
         "Hönö": 10,
