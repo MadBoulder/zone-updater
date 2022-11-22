@@ -7,17 +7,13 @@
     },
     "increased_videos": {},
     "missing_zones": [
-        "Kings Canyon",
-        "Meschia Nuova",
-        "Skykomish",
-        "El Escorial",
-        "Columbia",
         "El Bierzo",
-        "El Chaltén",
-        "Hönö",
-        "Index",
         "Hueco Tanks",
-        "Monte Xalo"
+        "Kings Canyon",
+        "Hönö",
+        "Skykomish",
+        "Columbia",
+        "Index"
     ],
     "zones_that_should_be_listed": {
         "Hönö": 10,
