@@ -1,17 +1,17 @@
 {
-    "date": "22-11-2022",
-    "previous_update": "21-11-2022",
-    "zones_total": 690,
+    "date": "23-11-2022",
+    "previous_update": "22-11-2022",
+    "zones_total": 691,
     "new_zones": {
-        "Santa Blocona: Sector Graffity": 6
+        "Santa Blocona: Sector Turó dels galls": 2
     },
     "increased_videos": {},
     "missing_zones": [
-        "El Bierzo",
-        "Hueco Tanks",
         "Kings Canyon",
-        "Hönö",
         "Skykomish",
+        "Hueco Tanks",
+        "Hönö",
+        "El Bierzo",
         "Columbia",
         "Index"
     ],
@@ -127,11 +127,12 @@
         "Squamish": 19,
         "Laurenzoboulderfels": 13,
         "Savassona": 159,
-        "Santa Blocona": 18,
+        "Santa Blocona": 20,
         "Targasonne": 346,
         "Can Bruguera": 292
     },
     "zones": {
+        "Santa Blocona: Sector Turó dels galls": 2,
         "Santa Blocona: Sector Graffity": 6,
         "Salvanebleau: Sector Les casetes": 3,
         "Pont de Camps": 1,
@@ -819,7 +820,7 @@
         "Laurenzoboulderfels": 13,
         "Can Bruguera: Sector Durkuek": 81,
         "Savassona": 159,
-        "Santa Blocona": 18,
+        "Santa Blocona": 20,
         "Targasonne": 346,
         "Can Bruguera": 292
     }
