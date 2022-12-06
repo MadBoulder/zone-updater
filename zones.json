@@ -1,15 +1,15 @@
 {
-    "date": "05-12-2022",
-    "previous_update": "04-12-2022",
+    "date": "06-12-2022",
+    "previous_update": "05-12-2022",
     "zones_total": 691,
     "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
-        "Skykomish",
         "Kings Canyon",
-        "Columbia",
-        "Index",
         "El Bierzo",
+        "Columbia",
+        "Skykomish",
+        "Index",
         "Hueco Tanks",
         "Hönö"
     ],
@@ -126,7 +126,7 @@
         "Laurenzoboulderfels": 13,
         "Savassona": 159,
         "Santa Blocona": 25,
-        "Targasonne": 346,
+        "Targasonne": 347,
         "Can Bruguera": 292
     },
     "zones": {
@@ -770,7 +770,7 @@
         "Salvanebleau: Sector Clàssic - Dipòsit": 21,
         "Cavallers: Sector El Prat": 44,
         "Cavallers: Sector Sec Xop": 4,
-        "Targasonne: Sector Dieux Païens": 43,
+        "Targasonne: Sector Dieux Païens": 44,
         "Targasonne: Sector Themis": 20,
         "Targasonne: Sector Taz": 51,
         "Targasonne: Sector Carrière": 23,
@@ -819,7 +819,7 @@
         "Can Bruguera: Sector Durkuek": 81,
         "Savassona": 159,
         "Santa Blocona": 25,
-        "Targasonne": 346,
+        "Targasonne": 347,
         "Can Bruguera": 292
     }
 }
