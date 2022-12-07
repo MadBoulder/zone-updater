@@ -1,17 +1,17 @@
 {
-    "date": "06-12-2022",
-    "previous_update": "05-12-2022",
+    "date": "07-12-2022",
+    "previous_update": "06-12-2022",
     "zones_total": 691,
     "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
-        "Kings Canyon",
-        "El Bierzo",
-        "Columbia",
-        "Skykomish",
         "Index",
         "Hueco Tanks",
-        "Hönö"
+        "Skykomish",
+        "Kings Canyon",
+        "Columbia",
+        "Hönö",
+        "El Bierzo"
     ],
     "zones_that_should_be_listed": {
         "Hönö": 10,
