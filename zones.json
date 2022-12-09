@@ -1,18 +1,16 @@
 {
-    "date": "08-12-2022",
-    "previous_update": "07-12-2022",
+    "date": "09-12-2022",
+    "previous_update": "08-12-2022",
     "zones_total": 692,
-    "new_zones": {
-        "Alcañiz: Sector Manjus Place": 0
-    },
+    "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
         "Columbia",
         "Skykomish",
-        "Index",
-        "Hueco Tanks",
         "Hönö",
         "Kings Canyon",
+        "Index",
+        "Hueco Tanks",
         "El Bierzo"
     ],
     "zones_that_should_be_listed": {
