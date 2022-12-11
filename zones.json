@@ -1,16 +1,16 @@
 {
-    "date": "10-12-2022",
-    "previous_update": "09-12-2022",
+    "date": "11-12-2022",
+    "previous_update": "10-12-2022",
     "zones_total": 692,
     "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
-        "Skykomish",
         "Hueco Tanks",
-        "El Bierzo",
-        "Index",
+        "Skykomish",
         "Hönö",
         "Columbia",
+        "El Bierzo",
+        "Index",
         "Kings Canyon"
     ],
     "zones_that_should_be_listed": {
@@ -130,7 +130,7 @@
         "Can Bruguera": 292
     },
     "zones": {
-        "Alcañiz: Sector Manjus Place": 0,
+        "Alcañiz: Sector Manjus Place": 1,
         "Santa Blocona: Sector Turó dels galls": 3,
         "Santa Blocona: Sector Graffity": 10,
         "Salvanebleau: Sector Les casetes": 6,
