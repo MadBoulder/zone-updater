@@ -1,21 +1,21 @@
 {
-    "date": "19-02-2023",
-    "previous_update": "18-02-2023",
-    "zones_total": 712,
+    "date": "20-02-2023",
+    "previous_update": "19-02-2023",
+    "zones_total": 713,
     "new_zones": {
-        "Folsom Lake": 1
+        "Atlantida": 1
     },
     "increased_videos": {},
     "missing_zones": [
-        "Columbia",
-        "Llíria",
-        "Västervik",
-        "Hönö",
-        "Skykomish",
-        "Index",
         "Zumaia",
+        "Västervik",
         "Kings Canyon",
+        "Hönö",
         "Hueco Tanks",
+        "Columbia",
+        "Index",
+        "Skykomish",
+        "Llíria",
         "El Bierzo"
     ],
     "zones_that_should_be_listed": {
@@ -138,6 +138,7 @@
         "Can Bruguera": 299
     },
     "zones": {
+        "Atlantida": 1,
         "Folsom Lake": 1,
         "La Pedriza: Sector La Máquina": 1,
         "Caley": 1,
