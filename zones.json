@@ -1,21 +1,19 @@
 {
-    "date": "21-02-2023",
-    "previous_update": "20-02-2023",
+    "date": "22-02-2023",
+    "previous_update": "21-02-2023",
     "zones_total": 713,
-    "new_zones": {
-        "La Pedriza: Sector Mancevilla Central": 2
-    },
+    "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
-        "El Bierzo",
+        "Västervik",
+        "Hönö",
         "Skykomish",
         "Hueco Tanks",
-        "Västervik",
+        "Kings Canyon",
         "Index",
         "Zumaia",
         "Llíria",
-        "Hönö",
-        "Kings Canyon",
+        "El Bierzo",
         "Columbia"
     ],
     "zones_that_should_be_listed": {
