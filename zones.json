@@ -1,22 +1,22 @@
 {
-    "date": "01-04-2023",
-    "previous_update": "31-03-2023",
+    "date": "03-04-2023",
+    "previous_update": "01-04-2023",
     "zones_total": 729,
     "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
-        "Index",
         "June Lake",
-        "Hueco Tanks",
-        "Zumaia",
-        "Kings Canyon",
-        "Västervik",
         "El Bierzo",
-        "Columbia",
-        "Sachsen",
+        "Index",
+        "Kings Canyon",
+        "Hueco Tanks",
+        "Västervik",
         "Skykomish",
+        "Sachsen",
+        "Hönö",
+        "Columbia",
         "Llíria",
-        "Hönö"
+        "Zumaia"
     ],
     "zones_that_should_be_listed": {
         "Sachsen": 8,
