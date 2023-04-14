@@ -1,27 +1,25 @@
 {
-    "date": "13-04-2023",
-    "previous_update": "12-04-2023",
+    "date": "14-04-2023",
+    "previous_update": "13-04-2023",
     "zones_total": 736,
-    "new_zones": {
-        "La Bastida": 1
-    },
+    "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
-        "Index",
-        "June Lake",
-        "Skykomish",
-        "Llíria",
-        "Sachsen",
         "Västervik",
-        "Zumaia",
+        "Index",
         "Hönö",
-        "Way Lake",
+        "June Lake",
         "Pont de Camps",
         "Columbia",
-        "Kings Canyon",
         "El Bierzo",
+        "Llíria",
+        "Kings Canyon",
+        "Hueco Tanks",
         "Rozas",
-        "Hueco Tanks"
+        "Sachsen",
+        "Skykomish",
+        "Way Lake",
+        "Zumaia"
     ],
     "zones_that_should_be_listed": {
         "Sachsen": 8,
