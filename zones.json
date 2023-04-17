@@ -1,25 +1,25 @@
 {
-    "date": "16-04-2023",
-    "previous_update": "15-04-2023",
+    "date": "17-04-2023",
+    "previous_update": "16-04-2023",
     "zones_total": 736,
     "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
         "Kings Canyon",
-        "Zumaia",
-        "Skykomish",
-        "Västervik",
-        "Columbia",
         "Rozas",
+        "Zumaia",
+        "Way Lake",
+        "Västervik",
+        "Skykomish",
+        "Index",
+        "Columbia",
         "Llíria",
+        "El Bierzo",
+        "Pont de Camps",
+        "Hönö",
         "June Lake",
         "Sachsen",
-        "Index",
-        "Hueco Tanks",
-        "Hönö",
-        "Way Lake",
-        "El Bierzo",
-        "Pont de Camps"
+        "Hueco Tanks"
     ],
     "zones_that_should_be_listed": {
         "Sachsen": 8,
@@ -61,7 +61,7 @@
         "Joshua Tree": 27,
         "Red Rocks": 48,
         "Torrelodones": 8,
-        "Black Mountain": 51,
+        "Black Mountain": 52,
         "Selvapiana": 8,
         "San Cassiano": 11,
         "Jaizkibel": 29,
@@ -83,7 +83,7 @@
         "Silvretta": 26,
         "Rioupéroux": 8,
         "Varazze": 8,
-        "Joe's Valley": 93,
+        "Joe's Valley": 94,
         "Pegalajar": 18,
         "Buttermilk Country": 47,
         "Gold Bar": 26,
@@ -143,7 +143,7 @@
         "Savassona": 165,
         "Santa Blocona": 26,
         "Targasonne": 366,
-        "Can Bruguera": 305
+        "Can Bruguera": 306
     },
     "zones": {
         "La Bastida": 3,
@@ -560,7 +560,7 @@
         "La Pedriza: Sector Dehesa Inferior": 7,
         "Jupiter Boulders": 4,
         "Torrelodones": 8,
-        "Black Mountain": 51,
+        "Black Mountain": 52,
         "Pferdestall": 1,
         "Okertal": 3,
         "Selvapiana": 8,
@@ -638,7 +638,7 @@
         "Rioupéroux": 8,
         "Alcañiz: Sector El Arenal": 39,
         "Varazze": 8,
-        "Joe's Valley": 93,
+        "Joe's Valley": 94,
         "Pegalajar": 18,
         "Buttermilk Country": 47,
         "Gold Bar": 26,
@@ -874,13 +874,13 @@
         "Lighthouse Park": 2,
         "Can Boquet": 223,
         "Albarracín": 669,
-        "Can Bruguera: Sector Cova del 8": 55,
+        "Can Bruguera: Sector Cova del 8": 56,
         "Squamish": 30,
         "Laurenzoboulderfels": 13,
         "Can Bruguera: Sector Durkuek": 81,
         "Savassona": 165,
         "Santa Blocona": 26,
         "Targasonne": 366,
-        "Can Bruguera": 305
+        "Can Bruguera": 306
     }
 }
