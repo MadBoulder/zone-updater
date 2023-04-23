@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
     "date": "23-04-2023",
-=======
-    "date": "22-04-2023",
->>>>>>> c15336c9fa74ec73f41923be45b31ce4f63a5e00
     "previous_update": "21-04-2023",
     "zones_total": 736,
     "new_zones": {
@@ -11,7 +7,6 @@
     },
     "increased_videos": {},
     "missing_zones": [
-<<<<<<< HEAD
         "Västervik",
         "Columbia",
         "Sachsen",
@@ -33,29 +28,6 @@
     "zones_that_should_be_listed": {
         "Sachsen": 8,
         "Pont de Camps": 7,
-=======
-        "Way Lake",
-        "Sachsen",
-        "Llíria",
-        "Kings Canyon",
-        "Zumaia",
-        "Columbia",
-        "Västervik",
-        "Hueco Tanks",
-        "Hönö",
-        "Little Cottonwood Canyon",
-        "Skykomish",
-        "Index",
-        "El Bierzo",
-        "June Lake",
-        "Rozas",
-        "Avegno",
-        "Pont de Camps"
-    ],
-    "zones_that_should_be_listed": {
-        "Sachsen": 8,
-        "Pont de Camps": 6,
->>>>>>> c15336c9fa74ec73f41923be45b31ce4f63a5e00
         "Sant Feliu de Guíxols": 8,
         "Avegno": 6,
         "June Lake": 7,
@@ -65,11 +37,7 @@
         "El Escorial": 16,
         "El Chaltén": 13,
         "Ubatuba": 8,
-<<<<<<< HEAD
         "Way Lake": 7,
-=======
-        "Way Lake": 6,
->>>>>>> c15336c9fa74ec73f41923be45b31ce4f63a5e00
         "Little Cottonwood Canyon": 7,
         "Zumaia": 6,
         "Västervik": 13,
@@ -97,11 +65,7 @@
         "Priest Draw": 15,
         "Moe's Valley": 31,
         "Llíria": 8,
-<<<<<<< HEAD
         "Joshua Tree": 30,
-=======
-        "Joshua Tree": 29,
->>>>>>> c15336c9fa74ec73f41923be45b31ce4f63a5e00
         "Red Rocks": 49,
         "Torrelodones": 8,
         "Black Mountain": 53,
@@ -165,11 +129,7 @@
         "Ailefroide": 18,
         "Fussimanya": 21,
         "Bagni di Masino": 42,
-<<<<<<< HEAD
         "La Pedriza": 218,
-=======
-        "La Pedriza": 215,
->>>>>>> c15336c9fa74ec73f41923be45b31ce4f63a5e00
         "Gottardo": 59,
         "Val Daone": 18,
         "Fontainebleau": 323,
@@ -200,11 +160,7 @@
         "Pont de Camps: Sector 46B Sit": 1,
         "Pena Corneira: Sector Trebello": 3,
         "Pena Corneira: Sector Meigallo": 3,
-<<<<<<< HEAD
         "La Pedriza: Sector Puntos Azules": 10,
-=======
-        "La Pedriza: Sector Puntos Azules": 8,
->>>>>>> c15336c9fa74ec73f41923be45b31ce4f63a5e00
         "Whiskey Gulch": 2,
         "Flagstaff": 1,
         "Mont-roig del Camp: Sector La Chispa Adecuada": 1,
@@ -245,11 +201,7 @@
         "Santa Blocona: Sector Turó dels galls": 3,
         "Santa Blocona: Sector Graffity": 11,
         "Salvanebleau: Sector Les casetes": 8,
-<<<<<<< HEAD
         "Pont de Camps": 7,
-=======
-        "Pont de Camps": 6,
->>>>>>> c15336c9fa74ec73f41923be45b31ce4f63a5e00
         "Sant Feliu de Guíxols": 8,
         "Avegno": 6,
         "Albarracín: Sector El Farallón": 1,
@@ -607,11 +559,7 @@
         "Llíria": 8,
         "Can Bruguera: Sector Vall de Cogombres": 5,
         "Albarracín: Sector Territorio Discovery": 7,
-<<<<<<< HEAD
         "Joshua Tree": 30,
-=======
-        "Joshua Tree": 29,
->>>>>>> c15336c9fa74ec73f41923be45b31ce4f63a5e00
         "Red Rocks": 49,
         "La Pedriza: Sector Mancevilla Central": 6,
         "La Pedriza: Sector La Colmena": 2,
@@ -874,11 +822,7 @@
         "Cavallers: Sector Voraelriu": 11,
         "Cavallers: Sector El Bosc": 60,
         "Magic Wood: Sector Haupt 1": 24,
-<<<<<<< HEAD
         "La Pedriza": 218,
-=======
-        "La Pedriza": 215,
->>>>>>> c15336c9fa74ec73f41923be45b31ce4f63a5e00
         "Lynn Valley Boulders": 5,
         "Magic Wood: Sector Haupt 2": 23,
         "Gottardo: Sector Il cecchino": 3,
