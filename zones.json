@@ -1,29 +1,29 @@
 {
-    "date": "25-04-2023",
-    "previous_update": "24-04-2023",
-    "zones_total": 737,
+    "date": "26-04-2023",
+    "previous_update": "25-04-2023",
+    "zones_total": 738,
     "new_zones": {
-        "Rock Creek": 2
+        "Unha": 2
     },
     "increased_videos": {},
     "missing_zones": [
-        "Avegno",
         "Hueco Tanks",
-        "Västervik",
-        "Way Lake",
-        "Sachsen",
-        "June Lake",
-        "Skykomish",
+        "Hönö",
         "Zumaia",
         "El Bierzo",
+        "Avegno",
         "Pont de Camps",
+        "Skykomish",
         "Index",
-        "Llíria",
-        "Kings Canyon",
-        "Columbia",
+        "Way Lake",
+        "Sachsen",
+        "Little Cottonwood Canyon",
+        "Västervik",
         "Rozas",
-        "Hönö",
-        "Little Cottonwood Canyon"
+        "June Lake",
+        "Kings Canyon",
+        "Llíria",
+        "Columbia"
     ],
     "zones_that_should_be_listed": {
         "Sachsen": 8,
@@ -147,15 +147,16 @@
         "Albarracín": 672,
         "Squamish": 30,
         "Laurenzoboulderfels": 13,
-        "Savassona": 165,
+        "Savassona": 164,
         "Santa Blocona": 26,
         "Targasonne": 366,
         "Can Bruguera": 312
     },
     "zones": {
+        "Unha": 2,
         "Rock Creek": 2,
         "Can Bruguera: Sector Santa Monica": 10,
-        "La Bastida": 3,
+        "La Bastida": 1,
         "Pont de Camps: Sector Alta Embriaguez": 1,
         "Pont de Camps: Sector Four Rooms": 4,
         "Pont de Camps: Sector 46B Sit": 1,
@@ -886,7 +887,7 @@
         "Squamish": 30,
         "Laurenzoboulderfels": 13,
         "Can Bruguera: Sector Durkuek": 81,
-        "Savassona": 165,
+        "Savassona": 164,
         "Santa Blocona": 26,
         "Targasonne": 366,
         "Can Bruguera": 312
