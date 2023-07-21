@@ -1,22 +1,22 @@
 {
-    "date": "20-07-2023",
-    "previous_update": "19-07-2023",
+    "date": "21-07-2023",
+    "previous_update": "20-07-2023",
     "zones_total": 762,
     "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
-        "Way Lake",
-        "Rozas",
         "Zumaia",
-        "Avegno",
-        "Columbia",
         "Sachsen",
+        "Columbia",
+        "Rozas",
+        "Bor",
         "El Bierzo",
         "Unha",
-        "Bor",
+        "La Bastida",
         "Skykomish",
         "Index",
-        "La Bastida"
+        "Avegno",
+        "Way Lake"
     ],
     "zones_that_should_be_listed": {
         "Pas de la Casa": 22,
