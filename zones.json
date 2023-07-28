@@ -1,15 +1,10 @@
 {
-<<<<<<< HEAD
     "date": "28-07-2023",
-=======
-    "date": "27-07-2023",
->>>>>>> 3a49140c31d43a6db1babd887f914afacfc19f8d
     "previous_update": "26-07-2023",
     "zones_total": 762,
     "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
-<<<<<<< HEAD
         "Columbia",
         "Bahratal",
         "Index",
@@ -23,20 +18,6 @@
         "Skykomish",
         "Rozas",
         "La Bastida"
-=======
-        "Rozas",
-        "La Bastida",
-        "Bor",
-        "Unha",
-        "Way Lake",
-        "Skykomish",
-        "Columbia",
-        "Sachsen",
-        "Avegno",
-        "El Bierzo",
-        "Zumaia",
-        "Index"
->>>>>>> 3a49140c31d43a6db1babd887f914afacfc19f8d
     ],
     "zones_that_should_be_listed": {
         "Pas de la Casa": 22,
@@ -160,11 +141,7 @@
         "La Comarca": 66,
         "Cypress Mountain": 19,
         "Magic Wood": 237,
-<<<<<<< HEAD
         "Cavallers": 283,
-=======
-        "Cavallers": 282,
->>>>>>> 3a49140c31d43a6db1babd887f914afacfc19f8d
         "Can Boquet": 245,
         "Albarracín": 684,
         "Squamish": 39,
@@ -921,11 +898,7 @@
         "Cypress Mountain": 19,
         "Magic Wood": 237,
         "SFU boulder": 4,
-<<<<<<< HEAD
         "Cavallers": 283,
-=======
-        "Cavallers": 282,
->>>>>>> 3a49140c31d43a6db1babd887f914afacfc19f8d
         "Arenys de Munt": 5,
         "Can Bruguera: Sector Summerhill": 16,
         "Bullenheimer Berg": 4,
