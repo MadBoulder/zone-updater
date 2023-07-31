@@ -1,25 +1,26 @@
 {
-    "date": "30-07-2023",
-    "previous_update": "28-07-2023",
+    "date": "31-07-2023",
+    "previous_update": "30-07-2023",
     "zones_total": 762,
     "new_zones": {
-        "Yosemite Valley: Sector Housekeeping": 7
+        "Les Puelles": 3,
+        "SFU Boulder": 4
     },
     "increased_videos": {},
     "missing_zones": [
-        "El Bierzo",
-        "Columbia",
-        "Way Lake",
-        "Rozas",
-        "La Bastida",
         "Unha",
-        "Bahratal",
-        "Zumaia",
         "Sachsen",
+        "Bor",
+        "El Bierzo",
         "Avegno",
+        "La Bastida",
         "Skykomish",
+        "Columbia",
         "Index",
-        "Bor"
+        "Rozas",
+        "Bahratal",
+        "Way Lake",
+        "Zumaia"
     ],
     "zones_that_should_be_listed": {
         "Pas de la Casa": 22,
@@ -67,7 +68,7 @@
         "Moe's Valley": 47,
         "Llíria": 8,
         "Joshua Tree": 54,
-        "Red Rocks": 77,
+        "Red Rocks": 78,
         "Torrelodones": 8,
         "Black Mountain": 67,
         "Selvapiana": 8,
@@ -102,7 +103,7 @@
         "Tamajón": 29,
         "Hoyamoros": 34,
         "Val Bavona": 16,
-        "Rocklands": 144,
+        "Rocklands": 145,
         "Val di Mello": 18,
         "Murgtal": 18,
         "Lagundo/Algund": 7,
@@ -150,7 +151,7 @@
         "Laurenzoboulderfels": 13,
         "Savassona": 165,
         "Santa Blocona": 26,
-        "Targasonne": 396,
+        "Targasonne": 397,
         "Can Bruguera": 316
     },
     "zones": {
@@ -589,7 +590,7 @@
         "Can Bruguera: Sector Vall de Cogombres": 6,
         "Albarracín: Sector Territorio Discovery": 7,
         "Joshua Tree": 54,
-        "Red Rocks": 77,
+        "Red Rocks": 78,
         "La Pedriza: Sector Mancevilla Central": 6,
         "La Pedriza: Sector La Colmena": 2,
         "Espiel": 4,
@@ -717,7 +718,7 @@
         "Albarracín: Sector La fuente": 97,
         "Val di Mello: Sector Melloblocco": 4,
         "Albarracín: Sector La Mezquita": 38,
-        "Rocklands": 144,
+        "Rocklands": 145,
         "Bagni di Masino: Sector Ersaf": 10,
         "Albarracín: Sector Loma de la Tejería": 14,
         "Salvan: Sector Pierre Bergère": 3,
@@ -866,7 +867,7 @@
         "Cavallers: Sector El Prat": 45,
         "Cavallers: Sector Sec Xop": 4,
         "Targasonne: Sector Dieux Païens": 46,
-        "Targasonne: Sector Themis": 36,
+        "Targasonne: Sector Themis": 37,
         "Targasonne: Sector Taz": 53,
         "Targasonne: Sector Carrière": 23,
         "Savassona: Sector Perdut": 24,
@@ -884,7 +885,7 @@
         "Fontainebleau: Sector Elephant": 18,
         "Fontainebleau: Sector 95.2": 27,
         "Fontainebleau": 351,
-        "Puelles": 3,
+        "Les Puelles": 3,
         "La Jonquera": 140,
         "Montgai": 3,
         "Savassona: Sector del Bosc": 74,
@@ -899,7 +900,7 @@
         "La Comarca": 66,
         "Cypress Mountain": 19,
         "Magic Wood": 237,
-        "SFU boulder": 4,
+        "SFU Boulder": 4,
         "Cavallers": 287,
         "Arenys de Munt": 5,
         "Can Bruguera: Sector Summerhill": 16,
@@ -914,7 +915,7 @@
         "Can Bruguera: Sector Durkuek": 82,
         "Savassona": 165,
         "Santa Blocona": 26,
-        "Targasonne": 396,
+        "Targasonne": 397,
         "Can Bruguera": 316
     }
 }
