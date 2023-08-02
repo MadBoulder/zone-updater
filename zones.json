@@ -1,25 +1,23 @@
 {
-    "date": "01-08-2023",
-    "previous_update": "31-07-2023",
+    "date": "02-08-2023",
+    "previous_update": "01-08-2023",
     "zones_total": 763,
-    "new_zones": {
-        "Mount Woodson": 1
-    },
+    "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
-        "Columbia",
         "Bahratal",
-        "Index",
-        "Sachsen",
-        "Unha",
-        "La Bastida",
-        "Bor",
-        "Way Lake",
+        "El Bierzo",
         "Avegno",
         "Rozas",
         "Zumaia",
-        "El Bierzo",
-        "Skykomish"
+        "Sachsen",
+        "La Bastida",
+        "Index",
+        "Bor",
+        "Skykomish",
+        "Columbia",
+        "Unha",
+        "Way Lake"
     ],
     "zones_that_should_be_listed": {
         "Pas de la Casa": 22,
@@ -133,7 +131,7 @@
         "La Pedriza": 230,
         "Gottardo": 61,
         "Val Daone": 21,
-        "Fontainebleau": 351,
+        "Fontainebleau": 352,
         "La Jonquera": 140,
         "Salvanebleau": 161,
         "Can Bartomeu": 53,
@@ -154,7 +152,7 @@
         "Can Bruguera": 316
     },
     "zones": {
-        "Mount Woodson": 1,
+        "Mount Woodson": 2,
         "Cavallers: Sector Pj": 2,
         "NÖ": 4,
         "Tanvald": 1,
@@ -884,7 +882,7 @@
         "Fontainebleau: Sector Franchard Isatis": 26,
         "Fontainebleau: Sector Elephant": 18,
         "Fontainebleau: Sector 95.2": 27,
-        "Fontainebleau": 351,
+        "Fontainebleau": 352,
         "Les Puelles": 3,
         "La Jonquera": 140,
         "Montgai": 3,
