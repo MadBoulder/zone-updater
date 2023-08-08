@@ -1,25 +1,23 @@
 {
-    "date": "07-08-2023",
-    "previous_update": "02-08-2023",
+    "date": "08-08-2023",
+    "previous_update": "07-08-2023",
     "zones_total": 764,
-    "new_zones": {
-        "Dazio Crotto": 1
-    },
+    "new_zones": {},
     "increased_videos": {},
     "missing_zones": [
-        "Zumaia",
-        "Index",
-        "Avegno",
-        "Columbia",
-        "El Bierzo",
-        "La Bastida",
-        "Sachsen",
-        "Bor",
-        "Skykomish",
-        "Bahratal",
         "Way Lake",
+        "Bor",
         "Unha",
-        "Rozas"
+        "La Bastida",
+        "Avegno",
+        "Index",
+        "Columbia",
+        "Zumaia",
+        "Sachsen",
+        "El Bierzo",
+        "Skykomish",
+        "Rozas",
+        "Bahratal"
     ],
     "zones_that_should_be_listed": {
         "Pas de la Casa": 22,
